@@ -1,0 +1,56 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - index.qmd
+    - news.qmd
+    - lab.qmd
+    - research.qmd
+    - teaching.qmd
+    - courses/**/*.qmd
+    - service.qmd
+    - awards.qmd
+
+website:
+  title: "Yifan Zhou"
+  favicon: "files/icon/lab_logo.png"
+  navbar:
+    left:
+      - text: Home
+        href: index.html
+      - text: News
+        href: news.html
+      - text: Group
+        href: lab.html
+      - text: Research
+        href: research.html
+      - text: Teaching
+        href: teaching.html
+      - text: Service
+        href: service.html
+      - text: Awards
+        href: awards.html
+    right:
+      - text: "{{< ai google-scholar >}}"
+        href: https://scholar.google.com/citations?hl=en&user=ffktsxoAAAAJ
+      - text: "{{< ai cv >}}"
+        href: "files/yifan_cv.pdf"
+      - text: "{{< fa envelope >}}"
+        href: mailto:yifan.zhou.1@stonybrook.edu
+  search: 
+    location: navbar
+    type: overlay
+  back-to-top-navigation: true
+  page-footer:
+    center: "Copyright Yifan Zhou"
+
+format:
+  html:
+    theme:
+      - cosmo
+    css: styles.css
+    toc: true
+    date-format: "MMM, YYYY"
+    
+language: 
+  search-text-placeholder: Search

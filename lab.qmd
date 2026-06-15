@@ -1,0 +1,89 @@
+---
+title: "Research Group"
+# subtitle: "Wireless Intelligence for Networks and Knowledge"
+# image: "files/icon/icon_wink.png"
+
+about:
+    id: lab-info
+    template: jolla
+    image-width: 10em
+    image-shape: rectangle
+listing:
+    - id: phd
+      contents:
+        - people/phd.yml
+      type: grid
+      grid-columns: 4
+      fields: [title, description, date, image]
+      max-description-length: 200
+      sort:
+        - "date desc"
+      page-size: 100
+      categories: false
+      sort-ui: false
+      filter-ui: false
+    - id: master
+      contents:
+        - people/master.yml
+      type: grid
+      grid-columns: 4
+      fields: [title, description, date, image]
+      max-description-length: 200
+      sort:
+        - "date desc"
+      page-size: 100
+      categories: false
+      sort-ui: false
+      filter-ui: false
+    - id: mentored-students
+      contents:
+        - people/mentored.yml
+      type: custom
+      sort:
+        - "order asc"
+      page-size: 100
+      categories: false
+      sort-ui: false
+      filter-ui: false
+      template: mentored-students.ejs
+# date-format: "MMM, YYYY"
+resources:
+    - "people/images/*"
+page-layout: full
+toc: true
+page-navigation: false
+title-block-banner: false
+---
+
+:::{#lab-info}
+:::
+
+Our lab develops grid-inspired computing and learning methods that support reliable, adaptive, and scalable power system operations. Deeply grounded in power system physics, our work rethinks how emerging computing paradigms, including AI, quantum computing, and formal verification, can harness the intrinsic characteristics of electric grids to address modern grid challenges.
+
+Current research interests include:
+
+- Grid-inspired quantum computing for power grid analysis, e.g., power flow and EMT simulation.
+- Verifiable AI for power systems, e.g., verification of learning components and learning-based verification.
+- Dynamic verification, stability analysis, and real-time decision-making.
+- Resilient operation of IBR-rich grids, microgrids, and networked energy systems.
+
+**We are looking for self-motivated Ph.D. students with a solid background in power system dynamics and stability analysis, as well as a strong interest in machine learning or quantum computing. If you are interested in joining our group, please [email me](mailto:yifan.zhou.1@stonybrook.edu) with your CV and transcripts.**
+
+## Lab Members
+
+### Ph.D. Students
+:::{#phd}
+:::
+
+### Master's Students
+:::{#master}
+:::
+
+### Alumni
+
+Our group is young and has no alumni yet.
+
+## Other Students Mentored
+
+:::{#mentored-students}
+:::

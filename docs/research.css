@@ -1,0 +1,106 @@
+.publication-list {
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.publication-item {
+  margin-bottom: 1rem;
+}
+
+.publication-item[hidden] {
+  display: none;
+}
+
+.publication-title {
+    font-size: larger;
+    margin-bottom: 0.3rem;
+    line-height: 1.4;
+}
+
+.publication-metadata {
+    font-size: medium;
+    margin-bottom: 0.3rem;
+    line-height: 1.2;
+}
+
+.publication-award {
+  color: #7a1111;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.publication-links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.4rem 0.5rem;
+  margin-bottom: 0.3rem;
+}
+
+.publication-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  margin: 0.75rem 0 1.1rem;
+}
+
+.publication-filters p {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  margin: 0;
+}
+
+.publication-filter,
+.publication-tag {
+  background: #f1f5f8;
+  border: 1px solid #d8e0e7;
+  border-radius: 999px;
+  color: #4f5965;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 600;
+  padding: 0.08rem 0.45rem;
+  white-space: nowrap;
+}
+
+.publication-filter {
+  background: transparent;
+  font-size: 0.78rem;
+  padding: 0.1rem 0.55rem;
+}
+
+.publication-filter.is-active {
+  background: #eef4fa;
+  border-color: #9fb7cc;
+  color: #23435f;
+}
+
+.publication-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem;
+  margin-bottom: 0.35rem;
+}
+
+.publication-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  padding: 0.2rem 0.4rem 0.15rem 0.4rem;
+  font-size: small;
+  font-weight: 500;
+  border: 1px solid #2780e3;
+  border-radius: 4px;
+  text-decoration: none;
+  line-height: 1.4;
+  transition: filter 0.15s ease;
+}
+
+.publication-btn:hover {
+  filter: brightness(88%);
+  text-decoration: none;
+  background-color: #2780e3;
+  color: #fff !important;
+}

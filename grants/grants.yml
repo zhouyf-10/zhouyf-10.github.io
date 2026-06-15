@@ -1,0 +1,31 @@
+- path: "https://www.nsf.gov/awardsearch/show-award?AWD_ID=2542805"
+  title: "CAREER: Fully Quantum Power Grid Analysis: Fundamental Theory and Novel Algorithms"
+  agency: "National Science Foundation (NSF)"
+  role: "PI"
+  duration: "2026 - 2031"
+  date: "2026-04-15"
+
+- path: "https://www.nsf.gov/awardsearch/show-award?AWD_ID=2432387"
+  title: "ENG-QUANT: Scalable Quantum Electromagnetic Transient Analysis with Tensors and Singularity Transformation"
+  agency: "National Science Foundation (NSF)"
+  role: "PI"
+  duration: "2025 - 2028"
+  date: "2025-09-01"
+  
+- path: " " # ../research.html#grants
+  title: "Accelerating Offshore Wind Integration in New York’s Digitally Enhanced, Modernized Power Grid"
+  agency: "New York State Energy Research and Development Authority (NYSERDA)"
+  role: "PI"
+  duration: "2024 - 2026"
+  date: "2024-01-01"
+
+- path: " "
+  title: "Large-Scale Grid Integration of Offshore Wind Energy in New York Grids with Verifiable Stability and Resilience"
+  agency: "SBU OVPR Seed Grant and Sunrise Wind, LLC (Ørsted and Eversource)"
+  role: "PI"
+  duration: "2023 - 2024"
+  date: "2023-05-31"
+
+
+
+

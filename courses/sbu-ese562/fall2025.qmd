@@ -1,0 +1,142 @@
+---
+title: "ESE 562: AI-Driven Smart Grids (Fall 2025)"
+subtitle: " "
+date: "2025-7-31"
+categories: ["Graduate"]
+# date-format: "MMM, YYYY"
+---
+
+## Course Information
+
+- Instructors: [Yifan Zhou](https://yifanzhou.info/)
+- Lecture time: 6:30pm-9:20pm Wednesday
+- Location: Frank Melville Jr. Memorial Library E4315
+- Office hours: Wednesday 1 pm-5 pm (in-person or online)
+
+## Course Description
+
+This course focuses on applications of artificial intelligence (AI) to power system modeling, analysis, and operation. Topics include the fundamentals of AI and smart grids; AI-based modeling methods for load and generation forecasting, dynamic model discovery, and system identification; AI-assisted power system analysis, including dynamic simulation, stability assessment, and security assessment; and AI-enabled operation, including optimal dispatch and emergency control. Emerging topics such as generative AI, quantum machine learning, and trustworthy AI will also be discussed. 
+
+This course is part of the Engineering Artificial Intelligence (EAI) program at Stony Brook University. The course emphasizes practical AI algorithms for power system applications, with hands-on experiments designed to help students develop AI-enabled power system analysis and operation programs.
+
+
+## Course Learning Objective
+
+The goal of this course is to help students build a solid foundation in AI applications to smart grids. Students will study the basic principles of data science and practical AI algorithms for data-driven power grid analysis and operation. Homework assignments and term projects are designed to strengthen students’ ability to develop data-driven programs for important power system problems.   
+
+Upon completion of this course, students will acquire knowledge and skills in AI-driven smart grid modeling, analysis, and operation, including:
+
+- Fundamental concepts in smart grid operation and control. 
+- Core machine learning and AI methods relevant to power system applications.
+- Understanding of key opportunities, challenges, and future directions of AI-driven smart grids.
+- Understanding of representative AI algorithms for power system modeling, analysis, and operation, including regression, classification, clustering, reinforcement learning, and transfer learning.
+- Understanding of physics-informed machine learning methods that integrate power system models, constraints, and domain knowledge into AI algorithms.
+- Hands-on experience in developing and implementing data-driven power system applications. 
+
+
+## Grading
+
+The grading weights for the course are as follows:
+
+- Quiz: 9% (3 quizzes in total)
+- Homework: 20% (4 assignments in total)
+- Presentation 1: 20%
+- Presentation 2: 20% 
+- Presentation 3: 25%
+- Class Participation: 6%
+
+### Quiz
+Quizzes mainly consist of short-answer questions related to the previous lecture.
+
+### Hands-on Experiments
+For most lectures, Python code will be provided to give students hands-on experience with the topics discussed. These codes typically serve as foundational examples to help students understand the lecture material and as starting points for related homework assignments.
+We will work through the programs together at the end of each lecture.
+
+### Homework
+Homework mainly consists of short-answer questions, mathematical problems, and simple programming problems for applying fundamental machine learning methods to power system problems. Homework assignments are posted on Wednesdays and are typically due by midnight the following Wednesday.
+
+### Course Project
+Students will complete three presentations during the semester:
+
+ - **Presentation 1: Survey of trustworthy AI technologies.** Each student will select a topic related to trustworthy AI, read at least 3 relevant papers, and make a 25-minute presentation on 9/24/2025. Please submit your presentation by 9/24/2025 through Brightspace.
+
+ - **Presentation 2: Survey of AI security.** Each student will select a topic related to AI security, read at least 3 relevant papers, and make a 25-minute presentation on 10/29/2025. Please submit your presentation by 10/29/2025 through Brightspace.
+
+ - **Presentation 3: Programming for AI-enabled smart grids.** Students are required to choose one topic from the given list, finish a 5-page technical report, and make a 25-minute presentation on 12/3/2025. Please submit your teaming information and selected topic by 11/5 via email. Please submit your final report and related codes and data by 12/10/2025 through Brightspace.
+
+ Presentation 3 can be done individually or in teams of two (projects done individually will receive a 5% bonus).
+
+
+
+## Prerequisites
+
+No formal prerequisites.
+
+
+## Course Schedule
+
+The schedule of lectures, quizzes, in-class hands-on exercises (HE), and homework (HW) is as follows and is subject to change.
+
+<style>
+.course-schedule table {
+  width: 100%;
+  table-layout: fixed;
+}
+
+.course-schedule th:nth-child(1),
+.course-schedule td:nth-child(1) {
+  width: 12%;
+}
+
+.course-schedule th:nth-child(2),
+.course-schedule td:nth-child(2) {
+  width: 70%;
+}
+
+.course-schedule th:nth-child(3),
+.course-schedule td:nth-child(3),
+.course-schedule th:nth-child(4),
+.course-schedule td:nth-child(4),
+.course-schedule th:nth-child(5),
+.course-schedule td:nth-child(5) {
+  width: 6%;
+  text-align: center;
+}
+
+.course-schedule td,
+.course-schedule th {
+  vertical-align: top;
+}
+</style>
+
+::: {.course-schedule}
+
+| Week | Lecture | Quiz | HE | HW |
+| --- | --- | --- | --- | --- |
+| Week 1<br>(08/27) | **Preliminaries: Introduction of smart grids and AI**<br>- What is a smart grid?<br>- What is AI?<br>- Why AI for smart grids? |  |  |  |
+| Week 2<br>(09/03) | **Modeling (1): Learning-based prediction in power systems**<br>- Static load model in power systems and data-driven load prediction<br>- Renewable energy models in power systems and data-driven renewable energy prediction |  | HE1 | HW1 |
+| Week 3<br>(09/10) <br><br> Week 4<br>(09/17) | **Modeling (2): Learning-based power system dynamic modeling**<br>- Basis of power system dynamic models<br>- Data-driven dynamic modeling <br>- Physics-informed dynamic model discovery |  | HE2 <br><br>HE3 |  |
+| Week 5<br>(09/24) | **Presentation 1: Survey of trustworthy AI technologies**<br> |  |  |  |
+| Week 6<br>(10/01) | **Analytics (1): Learning-based steady-state analysis**<br>- Basis of power flow analysis<br>- AI-driven power flow solvers<br>- Topology changes in AI-driven power flow analysis |  | HE4 | HW2 |
+| Week 7<br>(10/08) | **Guest Lecture：Quantum machine learning for power system transient stability analysis** <br> *Sijia Yu, Ph.D. student, SBU ECE* |  |  |  |
+| Week 8<br>(10/15) | **Analytics (2): Learning-based dynamic simulation**<br>- Basis of time-domain simulation in power system analysis<br>- ML-based dynamic simulation | Q1 |  |  |
+| Week 9<br>(10/22) | **Analytics (3): Learning-based stability assessment** <br>- Basis of power system stability assessment<br>- ML-based power system stability assessment | Q2 | HE5 | HW3 |
+| Week 10<br>(10/29) | **Presentation 2: Survey of AI security**<br> |  |  |  |
+| Week 11<br>(11/05) | **Operation (1): AI techniques in power system optimal dispatch**<br>- Power system economic dispatch and unit commitment<br>- AI-driven optimization<br>- AI-based optimal dispatch and unit commitment |  | HE6 | HW4 |
+| Week 12<br>(11/12)<br><br>Week 13<br>(11/19) | **Operation (2): Learning-based power system control**<br>- Learning-based offline controller design <br>- Basis of reinforcement learning (RL)<br>- RL-based power system online operation | Q3 |  |  |
+| Week 14<br>(11/26) | **Thanksgiving Break** (no classes in session) |  |  |  |
+| Week 15<br>(12/03) | **Presentation 3: Programming for AI-enabled smart grids**|  |  |  |
+
+:::
+
+## Student Accessibility Support Center Statement
+
+If you have a physical, psychological, medical, or learning disability that may impact your course work, please contact the Student Accessibility Support Center, Stony Brook Union Suite 107, (631) 632-6748, or at sasc@stonybrook.edu.  They will determine with you what accommodation is necessary and appropriate.  All information and documentation are confidential. 
+
+
+
+## Academic Integrity Statement
+Each student must pursue his or her academic goals honestly and be personally accountable for all submitted work.  Representing another person’s work as your own is always wrong.  Faculty is required to report any suspected instances of academic dishonesty to the Academic Judiciary.   Faculty in the Health Sciences Center (School of Health Technology and Management, Nursing, Social Welfare, Dental Medicine) and School of Medicine are required to follow their school-specific procedures.  For more comprehensive information on academic integrity, including categories of academic dishonesty please refer to the academic judiciary website at http://www.stonybrook.edu/commcms/academic_ integrity/index.html.
+
+## Critical Incident Management
+Stony Brook University expects students to respect the rights, privileges, and property of other people. Faculty are required to report to the Office of University Community Standards any disruptive behavior that interrupts their ability to teach, compromises the safety of the learning environment, or inhibits students’ ability to learn. Faculty in the HSC Schools and the School of Medicine are required to follow their school-specific procedures.  Further information about most academic matters can be found in the Undergraduate Bulletin, the Undergraduate Class Schedule, and the Faculty-Employee Handbook.

@@ -1,0 +1,13 @@
+---
+title: "SBU 102.S260: Smart Grids with AI and Quantum: Hands-On Explorations (Spring 2026)"
+date: "2026-01-01"
+categories: ["Undergraduate"]
+# date-format: "MMM, YYYY"
+---
+
+## Course Information
+
+- Instructor: [Yifan Zhou](https://yifanzhou.info/)
+- Time: TBD
+- Location: TBD
+ 

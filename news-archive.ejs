@@ -1,0 +1,76 @@
+```{=html}
+<%
+function descriptionParts(description) {
+    const parts = [];
+    const pattern = /\[([^\]]+)\]\(([^)]+)\)|\*\*([^*]+)\*\*|\*([^*]+)\*/g;
+    let lastIndex = 0;
+    let match;
+
+    while ((match = pattern.exec(description || "")) !== null) {
+        if (match.index > lastIndex) {
+            parts.push({ type: "text", value: description.slice(lastIndex, match.index) });
+        }
+        if (match[1] && match[2]) {
+            parts.push({ type: "link", text: match[1], href: match[2] });
+        } else if (match[3]) {
+            parts.push({ type: "bold", value: match[3] });
+        } else {
+            parts.push({ type: "italic", value: match[4] });
+        }
+        lastIndex = pattern.lastIndex;
+    }
+
+    if ((description || "").length > lastIndex) {
+        parts.push({ type: "text", value: description.slice(lastIndex) });
+    }
+
+    return parts;
+}
+
+function formattedLinkText(text) {
+    if (/^\*\*[^*]+\*\*$/.test(text)) {
+        return { type: "bold", value: text.slice(2, -2) };
+    }
+    if (/^\*[^*]+\*$/.test(text)) {
+        return { type: "italic", value: text.slice(1, -1) };
+    }
+    return { type: "text", value: text };
+}
+%>
+<ul class="news-archive">
+<% for (const item of items) { %>
+    <% const item_path = (item.path || "").trim() %>
+    <% const has_path = item_path !== "" && item_path !== "#" %>
+    <% const display_date = item.display_date || item.date %>
+    <% const people = Array.isArray(item.people) ? item.people : [] %>
+    <% const categories = Array.isArray(item.categories) ? item.categories : [] %>
+    <li class="news-archive-item" <%= metadataAttrs(item) %>>
+        <strong>[<%= display_date %>]</strong>
+        <% if (item.title) { %>
+            <strong class="news-title"><%= item.title %></strong>
+        <% } %>
+        <% for (const part of descriptionParts(item.description)) { %>
+            <% if (part.type === "link") { %>
+                <% const linkText = formattedLinkText(part.text) %>
+                <a href="<%= part.href %>"><% if (linkText.type === "bold") { %><strong><%= linkText.value %></strong><% } else if (linkText.type === "italic") { %><em><%= linkText.value %></em><% } else { %><%= linkText.value %><% } %></a>
+            <% } else if (part.type === "bold") { %>
+                <strong><%= part.value %></strong>
+            <% } else if (part.type === "italic") { %>
+                <em><%= part.value %></em>
+            <% } else { %>
+                <%= part.value %>
+            <% } %>
+        <% } %>
+        <% if (people.length > 0) { %>
+            People: <%= people.join(", ") %>.
+        <% } %>
+        <% if (has_path) { %>
+            <a href="<%= item_path %>">Link</a>.
+        <% } %>
+        <% for (const category of categories) { %>
+            <button type="button" class="news-tag" data-news-filter="<%= category %>"><%= category %></button>
+        <% } %>
+    </li>
+<% } %>
+</ul>
+```

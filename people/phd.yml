@@ -1,0 +1,41 @@
+- id: sijia-yu
+  path: "https://scholar.google.com/citations?user=XNwktUoAAAAJ&hl=en"
+  title: "Sijia Yu"
+  description: "Electrical Engineering"
+  date: "2023-01"
+  image: "people/images/sijia_yu.jpg"
+
+- id: xuguo-fu
+  path: "https://xuguofu98.github.io/"
+  title: "Xuguo Fu"
+  description: "Electrical Engineering"
+  date: "2023-08"
+  image: "people/images/xuguo_fu.jpg"
+
+- id: yao-xiao
+  path: "https://scholar.google.com/citations?user=Ba89qTgAAAAJ&hl=en&oi=ao"
+  title: "Yao Xiao"
+  description: "Electrical Engineering"
+  date: "2024-08"
+  image: "people/images/yao_xiao.jpg"
+
+- id: boyang-zhao
+  path: "#"
+  title: "Boyang Zhao"
+  description: "Electrical Engineering"
+  date: "2026-01"
+  image: "people/images/boyang_zhao.jpg"
+
+- id: zhehao-yi
+  path: "https://scholar.google.com/citations?user=Bxac9JQAAAAJ&hl=en&oi=ao"
+  title: "Zhehao Yi"
+  description: "Electrical Engineering"
+  date: "2026-08"
+  image: "people/images/zhehao_yi.jpg"
+
+- id: xinxi-li
+  path: "#"
+  title: "Xinxi Li"
+  description: "Electrical Engineering"
+  date: "2026-08"
+  image: "people/images/xinxi_li.jpg"

@@ -1,0 +1,60 @@
+---
+title: "Service"
+page-navigation: false
+title-block-banner: false
+---
+
+## Editorial and Professional Service
+
+### Editorial Service
+
+| Role | Venue | Period |
+|---|---|---|
+| Lead Editor | [*IEEE Access* (PES Section)](https://ieeeaccess.ieee.org/society-sections/ieee-power-energy-society-section/) | 2026-Present |
+| Associate Editor | *IEEE Access* (PES Section) | 2023-2026 |
+| Associate Editor | *IEEE Journal of Oceanic Engineering* | 2024-Present |
+| Associate Editor | *Energy Reports* | 2023-Present |
+
+### Professional Service
+
+::: {.service-table-compact}
+| Role | Organization  | Period |
+|---|---|---|
+| Convener | CIGRE Joint Working Group JWG C4/D2.80<br>[*Quantum Information Science and Technology (QIST) for Reliable and Secure Power Systems*](https://cigre-usnc.org/wp-content/uploads/2026/03/TOR-JWG-C4-D2-80-Quantum-Information-Science-and-Technology-QIST-for-Reliable-and-Secure-Power-Systems.pdf)<br><span class="service-callout">Consider joining!</span> | 2026-Present |
+:::
+
+
+### Review and Conference Service
+
+::: {.service-table-compact}
+| Role | Venue | Period |
+|---|---|---|
+| Panelist | NSF ECCS and CISE | 2026, 2025, 2024 |
+| Reviewer | IEEE Transactions on Power Systems, IEEE Transactions on Smart Grid, IEEE Transactions on Sustainable Energy, IEEE PES Letters, Scientific Reports, Energy, Applied Energy, IEEE PES General Meeting, Power Systems Computation Conference, etc. | Ongoing |
+| Session Chair | "Quantum Computing and Learning" and "Benchmarking and Assessment," 2024 IEEE International Conference on Quantum Computing and Engineering (QCE24) | 2024 |
+| TPC Member | IEEE International Conference on Quantum Computing and Engineering (QCE) | 2026, 2025, 2024 |
+:::
+
+## University and Department Service
+
+### Active Service
+
+::: {.service-table-compact}
+| Role | Committee | Period |
+|---|---|---|
+| Committee Member | Ad Hoc Committee on Pathways and Potential, SBU | Jan. 2026-Present |
+| Committee Member | Student Life Senate, SBU | Sep. 2025-Present |
+:::
+
+### Past Service
+
+::: {.service-table-compact}
+| Role | Committee | Period |
+|---|---|---|
+| Committee Member | Faculty Search for Non-Tenure-Track Lecturer in Engineering AI, SBU ECE | Jun. 2025-Dec. 2025 |
+| Committee Member | Faculty Search for Non-Tenure-Track Lecturer in Engineering AI, SBU ECE | Jun. 2024-Dec. 2024 |
+| Committee Member | Faculty Search for ECE Chair, SBU ECE | Oct. 2024-May 2025 |
+| Committee Member | Faculty Search for Tenure-Track Assistant Professor in ML/AI, SBU ECE | Sep. 2023-May 2024 |
+| Committee Member | Faculty Search for Tenure-Track Assistant Professor in ML/AI, SBU ECE | Sep. 2022-May 2023 |
+| Member | AI Research & Application Working Group, Stony Brook University |  2024 |
+:::

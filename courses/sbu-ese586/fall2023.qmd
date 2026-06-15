@@ -1,0 +1,13 @@
+---
+title: "ESE 586: Microgrids (Fall 2023)"
+date: "2026-01-01"
+categories: ["Graduate"]
+# date-format: "MMM, YYYY"
+---
+
+## Course Information
+
+- Instructor: [Yifan Zhou](https://yifanzhou.info/)
+- Time: TBD
+- Location: TBD
+ 

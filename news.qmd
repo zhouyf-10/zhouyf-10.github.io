@@ -1,0 +1,60 @@
+---
+title: News
+resources: "news/images/*"
+listing:
+    - id: news-archive
+      contents:
+        - news/news.yml
+      type: custom
+      sort:
+        - "date desc"
+      page-size: 100
+      categories: false
+      template: news-archive.ejs
+page-navigation: false
+title-block-banner: false
+---
+
+
+<div class="news-filters" aria-label="Filter news by category">
+  <button type="button" class="news-filter is-active" data-news-filter="all">All</button>
+  <button type="button" class="news-filter" data-news-filter="Award">Award</button>
+  <button type="button" class="news-filter" data-news-filter="Grant">Grant</button>
+  <button type="button" class="news-filter" data-news-filter="Publication">Publication</button>
+  <button type="button" class="news-filter" data-news-filter="Talks">Talks</button>
+  <button type="button" class="news-filter" data-news-filter="Service">Service</button>
+</div>
+
+::: {#news-archive}
+:::
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const filterButtons = document.querySelectorAll("[data-news-filter]");
+  const filterControls = document.querySelectorAll(".news-filter");
+  const newsItems = document.querySelectorAll("#listing-news-archive .news-archive-item");
+  const linkedFilters = {
+    Award: ["Award", "Recognition"],
+    Recognition: ["Award", "Recognition"]
+  };
+
+  function applyNewsFilter(category) {
+    const activeCategories = linkedFilters[category] || [category];
+
+    filterControls.forEach((button) => {
+      button.classList.toggle("is-active", button.dataset.newsFilter === category);
+    });
+
+    newsItems.forEach((item) => {
+      const itemCategories = Array.from(item.querySelectorAll(".news-tag")).map((tag) => tag.dataset.newsFilter);
+      item.hidden = category !== "all" && !itemCategories.some((itemCategory) => activeCategories.includes(itemCategory));
+    });
+  }
+
+  filterButtons.forEach((button) => {
+    button.addEventListener("click", function () {
+      applyNewsFilter(button.dataset.newsFilter);
+    });
+  });
+});
+</script>

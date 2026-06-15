@@ -1,0 +1,358 @@
+- date: "2026-06"
+  display_date: "2026/06"
+  title: "SBU Trustees Faculty Award."
+  description: "I received the 2026 Stony Brook Trustees Faculty Award. This award recognizes exceptional early-career faculty for their significant contributions to research, scholarship, and art-making."
+  categories: ["Award"]
+
+- date: "2026-05"
+  display_date: "2026/05"
+  title: "Best Paper at PESGM 2026."
+  description: "Our paper, [*Stabilizing Quantum EMT on Noisy Hardware Using Multidimensional Richardson Extrapolation*](https://drive.google.com/file/d/1JQyNwV3Un-Szt53OG3B-tE2OkKUdhKqQ/view?usp=drive_link), has been selected for the Best Paper Session (AMPS) at the 2026 IEEE PES General Meeting. Congratulations to Ph.D. student Sijia Yu! The session is scheduled for Monday, July 20 2026, 1:00-4:50 PM. Please consider stopping by!"
+  categories: ["Award", "Publication"]
+
+- date: "2026-04"
+  display_date: "2026/04"
+  title: " "
+  description: "Invited talk on *Empowering Smart Grids Through Quantum AI: Perspectives on Quantum Transient Stability Assessment* at the ORNL Quantum Computing/Power Grid Working Group."
+  categories: ["Talks"]
+
+- date: "2026-04"
+  display_date: "2026/04"
+  title: "NSF CAREER Award."
+  description: "I received the NSF CAREER Award from the ECCS/EPCL Program. This project will support the research and teaching on [**Fully Quantum Power Grid Analysis**](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2542805) over the next five years. Thanks, NSF!"
+  categories: ["Award", "Grant"]
+
+- date: "2026-02"
+  display_date: "2026/02"
+  title: "Lead Editor of IEEE Access (PES Section)."
+  description: "I will serve as Lead Editor of IEEE Access (PES Section) starting in February 2026. Please consider submitting."
+  categories: ["Service"]
+
+- date: "2023-11"
+  display_date: "2023/11"
+  title: "Associate Editor of Energy Reports."
+  description: "I will serve as Associate Editor of Energy Reports starting in February 2024. Please consider submitting."
+  categories: ["Service"]
+
+- date: "2024-04"
+  display_date: "2024/04"
+  title: "Associate Editor of IEEE Journal of Oceanic Engineering."
+  description: "I will serve as Associate Editor of IEEE Journal of Oceanic Engineering starting in May 2024. Please consider submitting."
+  categories: ["Service"]
+
+
+- date: "2026-01"
+  display_date: "2026/01"
+  title: "New CIGRE Working Group."
+  description: "I will serve as the convener of the new CIGRE Joint Working Group C4/D2.80 on [*Quantum Information Science and Technology for Reliable and Secure Power Systems*](https://cigre-usnc.org/wp-content/uploads/2026/03/TOR-JWG-C4-D2-80-Quantum-Information-Science-and-Technology-QIST-for-Reliable-and-Secure-Power-Systems.pdf). Please consider joining!"
+  categories: ["Service"]
+
+- date: "2026-01"
+  display_date: "2026/01"
+  title: "Paper Accepted by IEEE PESGM 2026." # 
+  description: "Our recent work on *Stabilizing Quantum EMT on Noisy Hardware Using Multidimensional Richardson Extrapolation* has been accepted by the 2026 IEEE PES General Meeting. This work develops a multidimensional Richardson extrapolation method to mitigate errors across the full QEMT simulation pipeline. Check out the [extended version](https://drive.google.com/file/d/1JQyNwV3Un-Szt53OG3B-tE2OkKUdhKqQ/view?usp=drive_link) here."
+  categories: ["Publication"]
+
+- date: "2026-01"
+  display_date: "2026/01"
+  title: "New Undergraduate Course" # 
+  description: "I will launch a new course in Spring 2026, [SBU 102.S260: Smart Grids with AI and Quantum: Hands-On Explorations](courses/sbu-sbu102/spring2026.qmd). This 10-week course introduces first-year students to how electricity grids work and how emerging AI and quantum tools may shape future energy systems."
+  categories: ["Teaching"]
+
+- date: "2026-01"
+  display_date: "2026/01"
+  title: " " # Serving on SBU Ad Hoc Committee
+  description: "I will serve as a member of SBU's *Ad Hoc Committee on Pathways and Potential* starting in January 2026. I look forward to learning from my colleagues and contributing to this effort."
+  categories: ["Service"]
+
+- date: "2025-12"
+  display_date: "2025/12"
+  title: "Paper Accepted by IEEE TPWRS."
+  description: "Our recent work, [HyMod](https://ieeexplore.ieee.org/abstract/document/11353030), has been accepted by IEEE Transactions on Power Systems. HyMod is a physics-data-hybrid mode decomposition approach for accelerating multi-contingency simulation of power grids. Congratulations to Ph.D. student Yao Xiao!"
+  categories: ["Publication"]
+
+- date: "2025-11"
+  display_date: "2025/11"
+  title: "Paper Accepted by IEEE TIA."
+  description: "Our recent work, [QTSA-PANE](https://ieeexplore.ieee.org/abstract/document/11218196), has been accepted by IEEE Transactions on Industry Applications. It develops a noise-aggregation-enhanced quantum federated learning framework for power system transient stability assessment. "
+  categories: ["Publication"]
+
+
+- date: "2025-11"
+  display_date: "2025/11"
+  title: "Best Paper Award from iEnergy."
+  description: "Our survey paper, [Quantum Computing in Power Systems](https://ieeexplore.ieee.org/abstract/document/9831167), received the 2025 Best Paper Award (Gold), as selected by the iEnergy editors."
+  categories: ["Award", "Publication"]
+
+- date: "2025-10"
+  display_date: "2025/10"
+  title: "Paper Accepted by IEEE TIA."
+  description: "Our recent work, [LPHN-Sim](https://ieeexplore.ieee.org/abstract/document/11197966), has been accepted by IEEE Transactions on Industry Applications. In this work, a parallel-in-time neural simulator is guided by low-fidelity physical solvers to achieve accelerated dynamic simulation without requiring densely sampled training data."
+  categories: ["Publication"]
+
+- date: "2025-10"
+  display_date: "2025/10"
+  title: " "
+  description: "Panel Talk at 2025 INFORMS Annual Meeting on *Quantum Subspace Decomposition for Large-Scale Power Grid Analysis*."
+  categories: ["Talks"]
+
+- date: "2025-09"
+  display_date: "2025/09"
+  title: " "
+  description: "Panel Talk at QCE 2025 on *Empowering Smart Grids with Quantum AI: Methods and Lessons Learned*."
+  categories: ["Talks"]
+
+- date: "2025-09"
+  display_date: "2025/09"
+  title: " " # Serving on SBU Senate Committee
+  description: "I will serve on the *University Senate Student Life Committee* as a representative of the College of Engineering and Applied Sciences starting in September 2025. I look forward to learning from my colleagues and contributing to this effort."
+  categories: ["Service"]
+
+- date: "2025-08"
+  display_date: "2025/08"
+  title: "New Grant from NSF."
+  description: "I received an NSF grant as lead PI, which will support the team's research on [**Scalable Quantum EMT Analysis**](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2432387) using tensors and singularity transformation. Thanks, NSF!"
+  categories: ["Grant"]
+
+
+- date: "2025-01"
+  display_date: "2025/01"
+  title: "Stony Brook Discovery Prize Finalist."
+  description: "I am selected as one of three finalists for the [2025 Stony Brook Discovery Prize](https://www.stonybrook.edu/discoveryprize/finalists-2025.php). Held biennially, the Discovery Prize is one of SBU's most prominent recognitions for bold, pioneering research by early-career faculty. The final presentations will take place on March 6, 2025, 2:30–4:30 PM. Grateful for the opportunity to share our research vision. "
+  categories: ["Award"]
+
+- date: "2025-03"
+  display_date: "2025/03"
+  title: " "
+  description: "Invited Talk at Cornell University on *Transforming Power Grid Resilience through Verification, AI, and Quantum Computing*."
+  categories: ["Talks"]
+
+- date: "2024-10"
+  display_date: "2024/10"
+  title: " "
+  description: "Invited Talk at University of Virginia on *Transforming Power Grid Resilience through Verification, AI, and Quantum Computing*."
+  categories: ["Talks"]
+
+- date: "2025-01"
+  display_date: "2025/01"
+  title: " "
+  description: "Invited Talk at University of Washington on *Quantum Computing in Power Systems: A Focus on Electromagnetic Transient Simulation*."
+  categories: ["Talks"]
+
+- date: "2025-04"
+  display_date: "2025/04"
+  title: " "
+  description: "Our collaborative work on *Quantum Contingency Analysis for Power System Steady-State Security Identification* has been accepted by Scientific Reports."
+  categories: ["Publication"]
+
+- date: "2025-02"
+  display_date: "2025/02"
+  title: " "
+  description: "Our collaborative work on *Neuro-Modeling Infused EMT Analytics* has been accepted by IEEE Transactions on Consumer Electronics."
+  categories: ["Publication"]
+
+- date: "2025-02"
+  display_date: "2025/02"
+  title: " "
+  description: "Our collaborative work on *Neuro Dynamic State Estimation for Networked Microgrids* has been accepted by IEEE Transactions on Industry Applications."
+  categories: ["Publication"]
+
+- date: "2024-11"
+  display_date: "2024/11"
+  title: "Paper Accepted by IEEE TPWRS."
+  description: "Our work on *Learning-Based, Runtime Reachability Analysis of Microgrid Dynamics* was published in IEEE Transactions on Power Systems. Congratulations to Ph.D. student Xuguo Fu!"
+  categories: ["Publication"]
+
+- date: "2023-10"
+  display_date: "2023/10"
+  title: "Paper Accepted by IEEE TPWRS."
+  description: "Our work on *Physics-Aware Neural Dynamic Equivalence of Power Systems* was published in IEEE Transactions on Power Systems. Congratulations to co-mentored Ph.D. student Qing Shen!"
+  categories: ["Publication"]
+
+- date: "2024-12"
+  display_date: "2024/12"
+  title: "AI Youth Star Award at IEEE BigData 2024."
+  description: "Our paper on *Quantum Kernel Classification for Data-Driven Power System Stability Assessment* received the AI Youth Star Award at the 2024 IEEE International Conference on Big Data. The first author, Trisha Sabadra, is a high school student we mentored through the SBU [CSIRE](https://bmi.stonybrookmedicine.edu/csire) program. Congratulations to Trisha and Sijia!"
+  categories: ["Award", "Publication"]
+
+- date: "2025-03"
+  display_date: "2025/03"
+  title: " "
+  description: "Honored to serve as a co-PI on an ONR project led by Dr. Yacov Shamash. I look forward to collaborating with my colleagues and contributing to this effort."
+  categories: ["Grant"]
+
+- date: "2024-09"
+  display_date: "2024/09"
+  title: " "
+  description: "Honored to serve as a co-PI on an industry project funded by ISO New England and led by Dr. Peng Zhang. I look forward to collaborating with my colleagues and contributing to this effort."
+  categories: ["Grant"]
+
+- date: "2024-01"
+  display_date: "2024/01"
+  title: " "
+  description: "Honored to serve as a co-PI on an ONR project led by Dr. Yacov Shamash. I look forward to collaborating with my colleagues and contributing to this effort."
+  categories: ["Grant"]
+
+
+- date: "2024-01"
+  display_date: "2024/01"
+  title: "New Grant from NYSERDA."
+  description: "I received a new grant from NYSERDA (The New York State Energy Research and Development Authority) as lead PI, which will support the team's research, teaching, and workforce development on offshore wind. Thanks, NYSERDA!"
+  categories: ["Grant"]
+
+- date: "2023-05"
+  display_date: "2023/05"
+  title: "SBU Seed Grant."
+  description: "I received a seed grant from SBU OVPR through a program co-funded by Sunrise Wind, LLC (Ørsted and Eversource). This project will support our lab's research on large-scale offshore wind integration with verifiable stability and resilience. Grateful for the support!  "
+  categories: ["Grant"]
+
+
+- date: "2024-09"
+  display_date: "2024/09"
+  title: "Paper Accepted by IEEE QCE 2024."
+  description: "Our paper *Distributed Quantum Machine Learning in Power System Transient Stability Assessment* was presented at IEEE QCE 2024."
+  categories: ["Publication"]
+
+- date: "2024-09"
+  display_date: "2024/09"
+  title: "Session Chair at IEEE QCE 2024."
+  description: "I will serve as a session chair for two sessions, *Quantum Computing and Learning* and *Benchmarking and Assessment*, at IEEE QCE 2024."
+  categories: ["Service"]
+
+
+
+- date: "2023-05"
+  display_date: "2023/05"
+  title: "CIGRE NGN Top-5 Finalist."
+  description: "Our collaborative work *Powering the Future: Harnessing Neural Dynamic Equivalence for Enhanced Power System Applications* was selected as a Top-5 finalist in the 2023 CIGRE Next Generation Network Paper Competition."
+  categories: ["Award", "Publication"]
+
+
+- date: "2023-04"
+  display_date: "2023/04"
+  title: "Young Academic Inventor's Award."
+  description: "I received the 2023 Young Academic Inventor's Award from the National Academy of Inventors Stony Brook University Chapter."
+  categories: ["Award"]
+
+
+
+
+
+
+
+
+- date: "2025-03"
+  display_date: "2025/03"
+  title: "Packard Fellowship Nomination."
+  description: "I was nominated by Stony Brook University for the Packard Fellowship. Each year, SBU selects two nominees across all disciplines. Grateful for the trust and support."
+  categories: ["Recognition"]
+
+- date: "2023-05"
+  display_date: "2023/05"
+  title: "Moore Inventor Fellow Nomination."
+  description: "I was nominated by Stony Brook University for the Moore Inventor Fellow. Each year, SBU selects two nominees across all disciplines. Grateful for the trust and support."
+  categories: ["Recognition"]
+
+
+- date: "2025-03"
+  display_date: "2025/03"
+  title: "Two Papers Accepted by IEEE PESGM 2025."
+  description: "Our group had two papers accepted by IEEE PESGM 2025 on quantum EMT simulation through quantum Krylov subspace and conformal anomaly detection for data-driven dynamic models in power systems."
+  categories: ["Publication"]
+
+
+- date: "2024-03"
+  display_date: "2024/03"
+  title: "Three Papers Accepted by IEEE PESGM 2024."
+  description: "Our group had three papers accepted by IEEE PES GM 2024 on learning-based verification of MMC-HVDC offshore wind systems, stochastic verification of microgrids, and quantum machine learning for power system stability assessment."
+  categories: ["Publication"]
+
+- date: "2023-03"
+  display_date: "2023/03"
+  title: "Paper Accepted by IEEE PESGM 2023."
+  description: "Our work on scalable and lightweight distributed local routing for quantum-network-based microgrids was accepted by IEEE PES GM 2023."
+  categories: ["Publication"]
+
+
+- date: "2024-01"
+  display_date: "2024/01"
+  title: " "
+  description: "Our collaborative work on *Differential Duffing Oscillator Based Cyberattack Detection for Inverters* appeared in IEEE Transactions on Smart Grid."
+  categories: ["Publication"]
+
+- date: "2024-01"
+  display_date: "2024/01"
+  title: "Paper Accepted by IEEE TSG"
+  description: "Our works on *Physics-Informed, Safety and Stability Certified Neural Control for Uncertain Networked Microgrids* was published in IEEE Transactions on Smart Grid."
+  categories: ["Publication"]
+
+- date: "2023-09"
+  display_date: "2023/09"
+  title: " "
+  description: "Our collaborative survey paper on *Data-driven modeling of power system dynamics: Challenges, state of the art, and future work* was accepted by iEnergy."
+  categories: ["Publication"]
+
+- date: "2023-05"
+  display_date: "2023/05"
+  title: " "
+  description: "Our collaborative work on *Novel Resolution of Unit Commitment Problems through Quantum Surrogate Lagrangian Relaxation* was accepted by IEEE Transactions on Power Systems."
+  categories: ["Publication"]
+
+- date: "2023-10"
+  display_date: "2023/10"
+  title: " "
+  description: "Panel talk at the NSF Climate, Sustainability & Quantum Computing Workshop on *Deployable Quantum Technologies for Resilient, Sustainable, and Secure Energy Systems*."
+  categories: ["Talks"]
+
+- date: "2023-05"
+  display_date: "2023/05"
+  title: " "
+  description: "Seminar at the Naval Postgraduate School on *Formal Verification of Microgrids: Model-Driven and Data-Driven Approaches*."
+  categories: ["Talks"]
+
+
+- date: "2022-10"
+  display_date: "2022/10"
+  title: " "
+  description: "Seminar at the IEEE PES Publications Webinar Series on *Quantum Computing in Power System Analytics*."
+  categories: ["Talks"] 
+
+
+
+
+- date: "2025-07"
+  display_date: "2025/07"
+  title: " "
+  description: "I will serve on the faculty search committee for the non-tenure-track Lecturer position in Engineering AI at SBU ECE."
+  categories: ["Service"]
+
+- date: "2024-07"
+  display_date: "2024/07"
+  title: " "
+  description: "I will serve on the faculty search committee for the non-tenure-track Lecturer position in Engineering AI at SBU ECE."
+  categories: ["Service"]
+
+- date: "2024-10"
+  display_date: "2024/10"
+  title: " "
+  description: "I serve on the faculty search committee for the ECE Department Chair position at SBU."
+  categories: ["Service"]
+
+
+- date: "2023-09"
+  display_date: "2023/09"
+  title: " "
+  description: "I will serve on the faculty search committee for the tenure-track Assistant Professor position in ML/AI at SBU ECE."
+  categories: ["Service"]
+
+- date: "2022-09"
+  display_date: "2022/09"
+  title: " "
+  description: "I will serve on the faculty search committee for the tenure-track Assistant Professor position in ML/AI at SBU ECE."
+  categories: ["Service"]
+
+
+- date: "2022-09"
+  display_date: "2022/09"
+  title: " "
+  description: "I joined the Department of Electrical and Computer Engineering at Stony Brook University as a tenure-track Assistant Professor."

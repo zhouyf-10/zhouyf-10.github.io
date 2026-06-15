@@ -1,0 +1,35 @@
+- group: "Undergraduate Students"
+  order: 1
+  names: ["Alisha Singh", "Jackey Zheng", "Ivan Chen"]
+  role: "undergraduate students, SBU ECE"
+  project: "Senior Design Project"
+  period: "Fall 2025-Spring 2026"
+
+- group: "Undergraduate Students"
+  order: 2
+  names: ["Alan Mani", "Tasnim Harun", "Eshan Shakrani", "Tylon Guan", "Saad Satter"]
+  role: "undergraduate students, SBU ECE"
+  project: "Senior Design Project"
+  period: "Fall 2024-Spring 2025"
+
+- group: "High School Students"
+  order: 3
+  names: ["Trisha Sabadra"]
+  role: "high school student"
+  project: "summer research through the SBU CSIRE program"
+  period: "Summer 2024-Fall 2024"
+  note: "currently undergraduate student in Computer Science at CMU"
+
+- group: "High School Students"
+  order: 4
+  names: ["Asha Boyapati"]
+  role: "high school student"
+  project: "summer research through the SBU CSIRE program"
+  period: "Summer 2024"
+  note: "currently undergraduate student in Computer Science at CMU"
+
+- group: "Short-Term Research Assistants"
+  order: 5
+  names: ["Tarini Guttula"]
+  role: "M.S. student, SBU CS"
+  period: "Spring 2026"

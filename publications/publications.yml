@@ -1,0 +1,684 @@
+- path: "https://drive.google.com/file/d/1JQyNwV3Un-Szt53OG3B-tE2OkKUdhKqQ/view?usp=drive_link"
+  title: "Stabilizing Quantum EMT on Noisy Hardware Using Multidimensional Richardson Extrapolation"
+  authors: "<u>Sijia Yu</u>, <b>Yifan Zhou</b>， Bin Wang, Qiang Zhang, Xiaochuan Luo, Tongxin Zheng"
+  publication: "2026 IEEE Power & Energy Society General Meeting (PESGM). <b>Best Paper Award</b>."
+  date: "2026-06-06"
+  categories: ["Conference", "Quantum", "EMT"]
+  url_pdf: "https://drive.google.com/file/d/1JQyNwV3Un-Szt53OG3B-tE2OkKUdhKqQ/view?usp=drive_link"
+  url_code: ""
+  url_slides: ""
+
+
+
+
+- path: "https://ieeexplore.ieee.org/abstract/document/11353030"
+  title: "Accelerating Multi-Contingency Simulation Through Physics-Data-Hybrid Mode Decomposition"
+  authors: "<u>Yao Xiao</u>, <b>Yifan Zhou</b>"
+  publication: "IEEE Transactions on Power Systems, accepted, Jan. 2026."
+  date: "2026-01-01"
+  categories: ["Journal", "Learning", "Grid Dynamics"]
+  url_pdf: "https://drive.google.com/file/d/1kWYnuNHgYwbDTba84ovTId3Komt9wYj2/view?usp=drive_link"
+  url_code: ""
+  url_slides: ""
+
+
+
+- path: "https://ieeexplore.ieee.org/abstract/document/11197966"
+  title: "Parallel-in-Time Neural Simulation of Networked Microgrids with Low-Fidelity Physics Guidance"
+  authors: "<u>Yao Xiao</u>, <b>Yifan Zhou</b>"
+  publication: "IEEE Transactions on Industry Applications, accepted, Oct. 2025."
+  date: "2025-10-9"
+  categories: ["Journal", "Learning", "Grid Dynamics", "Microgrids"]
+  url_pdf: "https://drive.google.com/file/d/1ffwD7aKWFwDivXjQmAPjC_9ghfiHchQ1/view?usp=drive_link"
+  url_code: ""
+  url_slides: ""
+
+
+
+- path: "https://ieeexplore.ieee.org/abstract/document/11218196"
+  title: "Noise-Aggregation–Enhanced Quantum Federated Learning for Transient Stability Assessment of Networked Microgrids"
+  authors: "<u>Sijia Yu</u>, <b>Yifan Zhou</b>"
+  publication: "IEEE Transactions on Industry Applications, accepted, Oct. 2025."
+  date: "2025-10-27"
+  categories: ["Journal", "Quantum", "Learning", "Microgrids", "Grid Dynamics"]
+  url_pdf: "https://drive.google.com/file/d/1Icku9JZSX7drWyyN7aGeDG4-MJyjwQQP/view?usp=drive_link"
+  url_code: ""
+  url_slides: ""
+
+
+
+- path: "https://ieeexplore.ieee.org/abstract/document/11272268"
+  title: "Quantum Federated Learning Based Power System Stability Assessment: A Noise Robust Approach"
+  authors: "<u>Sijia Yu</u>, <b>Yifan Zhou</b>"
+  publication: "2025 57th North American Power Symposium (NAPS)"
+  date: "2025-10-14"
+  categories: ["Conference", "Quantum", "Learning", "Grid Dynamics"]
+  url_pdf: "https://drive.google.com/file/d/171Ig2Xb5kBBmwTQvd-tzHCoTh68duBbJ/view?usp=drive_link"
+  url_code: ""
+  url_slides: ""
+  
+
+
+- path: "https://ieeexplore.ieee.org/abstract/document/11225503"
+  title: "Conformal Anomaly Detection for Data-Driven Dynamic Models in Power Systems"
+  authors: "<u>Yao Xiao</u>, <b>Yifan Zhou</b>"
+  publication: "2025 IEEE Power & Energy Society General Meeting (PESGM)"
+  date: "2025-7-27"
+  categories: ["Conference", "Learning", "Grid Dynamics", "Verification"]
+  url_pdf: "https://drive.google.com/file/d/1GFk-4_LJQt_AtN5uXyolPKxdvhqkf434/view?usp=drive_link"
+  url_code: ""
+  url_slides: ""
+
+
+
+- path: "https://ieeexplore.ieee.org/abstract/document/11225503"
+  title: "Quantum Shifted Frequency Analysis through Krylov Subspace Decomposition"
+  authors: "<u>Sijia Yu</u>, <b>Yifan Zhou</b>"
+  publication: "2025 IEEE Power & Energy Society General Meeting (PESGM)"
+  date: "2025-7-27"
+  categories: ["Conference", "Quantum", "EMT"]
+  url_pdf: "https://drive.google.com/file/d/1VL6ZjfIuwMydFyZYcGeTzRevRS9l0GaK/view?usp=drive_link"
+  url_code: ""
+  url_slides: ""
+  
+
+
+- path: "https://www.nature.com/articles/s41598-025-98776-5"
+  title: "Quantum contingency analysis for power system steady-state security identification"
+  authors: "Fei Feng, <b>Yifan Zhou</b>, Mikhail A Bragin, Yacov A Shamash, Peng Zhang"
+  publication: "Scientific Reports, vol. 15, pp. 15148, Apr. 2025."
+  date: "2025-4-30"
+  categories: ["Journal", "Quantum"]
+  url_pdf: ""
+  url_code: ""
+  url_slides: ""
+
+
+
+- path: "https://ieeexplore.ieee.org/abstract/document/10887332"
+  title: "Neuro-Modeling Infused EMT Analytics"
+  authors: "<u>Qing Shen</u>, <b>Yifan Zhou</b>, Peng Zhang, Yacov A Shamash, Roshan Sharma, Bo Chen"
+  publication: "IEEE Transactions on Consumer Electronics, vol. 71, no. 1, pp. 1806-1818, Feb. 2025."
+  date: "2025-2-14"
+  categories: ["Journal", "Learning", "EMT"]
+  url_pdf: ""
+  url_code: ""
+  url_slides: ""
+
+
+
+- path: "https://ieeexplore.ieee.org/abstract/document/10825774"
+  title: "Quantum Kernel Based Transient Stability Assessment of Power Systems and Its Implementation in NISQ Environment"
+  authors: "<u>Trisha Sabadra</u>, <u>Sijia Yu</u>, <b>Yifan Zhou</b>"
+  publication: "2024 IEEE International Conference on Big Data (BigData). <b>AI Youth Star Award</b>."
+  date: "2024-12-15"
+  categories: ["Conference", "Quantum", "Learning", "Grid Dynamics"]
+  url_pdf: "https://drive.google.com/file/d/1jRDRVMFkUHq-W5rFD1p6-CdksYYBVyUq/view?usp=drive_link"
+  url_code: ""
+  url_slides: ""
+
+
+
+- path: "https://ieeexplore.ieee.org/abstract/document/10753090"
+  title: "Learning-Based, Runtime Reachability Analysis of Microgrid Dynamics"
+  authors: "<u>Xuguo Fu</u>, <b>Yifan Zhou</b>"
+  publication: "IEEE Transactions on Power Systems, vol. 40, no. 1, pp. 1152-1155, Jan. 2025."
+  date: "2024-11-14"
+  categories: ["Journal", "Learning", "Microgrids", "Verification", "Grid Dynamics"]
+  url_pdf: "https://drive.google.com/file/d/1tXnoKGVFF14b11mIwukihQYMUNVgC05E/view?usp=drive_link"
+  url_code: ""
+  url_slides: ""
+
+
+
+- path: "https://ieeexplore.ieee.org/abstract/document/10821307"
+  title: "Quantum-Enabled Distributed Transient Stability Assessment of Power Systems"
+  authors: "<u>Sijia Yu</u>, <b>Yifan Zhou</b>"
+  publication: "2024 IEEE International Conference on Quantum Computing and Engineering (QCE)"
+  date: "2024-9-15"
+  categories: ["Conference", "Quantum", "Learning", "Grid Dynamics"]
+  url_pdf: " "
+  url_code: ""
+  url_slides: ""
+
+
+
+- path: "https://ieeexplore.ieee.org/abstract/document/10703139"
+  title: "Noisy-intermediate-scale quantum power system state estimation"
+  authors: "Fei Feng, Peng Zhang, <b>Yifan Zhou</b>, Yacov A Shamash"
+  publication: "iEnergy"
+  date: "2024-9-15"
+  categories: ["Journal", "Quantum"]
+  url_pdf: " "
+  url_code: ""
+  url_slides: ""
+
+
+
+- path: "https://ieeexplore.ieee.org/abstract/document/10637777"
+  title: "Software-Defined Virtual Synchronous Condenser"
+  authors: "Zimin Jiang, Peng Zhang, <b>Yifan Zhou</b>, Lukasz Kocewiak, Divya Kurthakoti Chandrashekhara, Marie-Lou Picherit, Zefan Tang, Kenneth B Bowes, Guangya Yang"
+  publication: "IEEE Transactions on Power Systems"
+  date: "2024-08-15"
+  categories: ["Journal"]
+  url_pdf: ""
+  url_code: ""
+  url_slides: ""
+
+
+
+- path: "https://ieeexplore.ieee.org/abstract/document/10761090"
+  title: "Stochastic Dynamic Verification of Microgrids"
+  authors: "<b>Yifan Zhou</b>, <u>Xuguo Fu</u>"
+  publication: "2024 IEEE Power & Energy Society General Meeting (PESGM)"
+  date: "2024-07-21"
+  categories: ["Conference", "Microgrids", "Grid Dynamics", "Verification"]
+  url_pdf: ""
+  url_code: ""
+  url_slides: ""
+
+
+
+- path: "https://ieeexplore.ieee.org/abstract/document/10688550"
+  title: "Learning-Based Uncertain Dynamic Verification of MMC-HVDC Offshore Wind Systems"
+  authors: "<u>Xuguo Fu</u>, <b>Yifan Zhou</b>"
+  publication: "2024 IEEE Power & Energy Society General Meeting (PESGM)"
+  date: "2024-07-21"
+  categories: ["Conference", "Learning", "Grid Dynamics", "Verification"]
+  url_pdf: ""
+  url_code: ""
+  url_slides: ""
+
+
+
+- path: "https://ieeexplore.ieee.org/abstract/document/10688912"
+  title: "Quantum Adversarial Machine Learning for Robust Power System Stability Assessment"
+  authors: "<u>Sijia Yu</u>, <b>Yifan Zhou</b>"
+  publication: "2024 IEEE Power & Energy Society General Meeting (PESGM)"
+  date: "2024-07-21"
+  categories: ["Conference", "Quantum", "Learning", "Grid Dynamics"]
+  url_pdf: ""
+  url_code: ""
+  url_slides: ""
+
+
+
+- path: "https://ieeexplore.ieee.org/abstract/document/10559616"
+  title: "Scalable Neural Dynamic Equivalence for Power Systems"
+  authors: "<u>Qing Shen</u>, <b>Yifan Zhou</b>, Peng Zhang, Huanfeng Zhao, Qiang Zhang, Slava Maslennikov, Xiaochuan Luo"
+  publication: "IEEE Access"
+  date: "2024-06-17"
+  categories: ["Journal", "Learning", "Grid Dynamics"]
+  url_pdf: ""
+  url_code: ""
+  url_slides: ""
+
+
+
+- path: "https://ieeexplore.ieee.org/abstract/document/10457950"
+  title: "Neuro-Dynamic State Estimation for Networked Microgrids"
+  authors: "Fei Feng, <b>Yifan Zhou</b>, Peng Zhang"
+  publication: "IEEE Transactions on Industry Applications, vol. 61, no. 1, pp. 1431-1441, Feb. 2025."
+  date: "2024-03-01"
+  categories: ["Journal", "Learning", "Microgrids", "Grid Dynamics"]
+  url_pdf: ""
+  url_code: ""
+  url_slides: ""
+
+
+
+- path: "https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119890881.ch11"
+  title: "In Situ Resilience Quantification for Microgrids"
+  authors: "Priyanka Mishra, Peng Zhang, Scott A Smolka, Scott D Stoller, <b>Yifan Zhou</b>, Yacov A Shamash, Douglas L Van Bossuyt, William W Anderson Jr"
+  publication: "Microgrids: Theory and Practice. Chapter 11."
+  date: "2024-01-18"
+  categories: ["Book Chapter", "Microgrids", "Grid Dynamics"]
+  url_pdf: ""
+  url_code: ""
+  url_slides: ""
+
+
+
+- path: "https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119890881.ch6"
+  title: "AI‐Enabled Dynamic Model Discovery of Networked Microgrids"
+  authors: "<b>Yifan Zhou</b>, Peng Zhang"
+  publication: "Microgrids: Theory and Practice. Chapter 6."
+  date: "2024-01-18"
+  categories: ["Book Chapter", "Learning", "Microgrids", "Grid Dynamics"]
+  url_pdf: ""
+  url_code: ""
+  url_slides: ""
+
+
+
+- path: "https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119890881.ch32"
+  title: "Neuro‐Dynamic State Estimation of Microgrids"
+  authors: "Fei Feng, <b>Yifan Zhou</b>, Peng Zhang"
+  publication: "Microgrids: Theory and Practice. Chapter 32."
+  date: "2024-01-18"
+  categories: ["Book Chapter", "Learning", "Microgrids", "Grid Dynamics"]
+  url_pdf: ""
+  url_code: ""
+  url_slides: ""
+
+
+
+- path: "https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119890881.ch3"
+  title: "Distributed Power Flow and Continuation Power Flow for Steady-State Analysis of Microgrids"
+  authors: "Fei Feng, Peng Zhang, <b>Yifan Zhou</b>"
+  publication: "Microgrids: Theory and Practice. Chapter 4. "
+  date: "2024-01-18"
+  categories: ["Book Chapter", "Microgrids"]
+  url_pdf: ""
+  url_code: ""
+  url_slides: ""
+
+
+
+- path: "https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119890881.ch2"
+  title: "AI‐Grid: AI‐Enabled, Smart Programmable Microgrids"
+  authors: "Peng Zhang, <b>Yifan Zhou</b>, Scott A Smolka, Scott D Stoller, Xin Wang, Rong Zhao, Tianyun Ling, Yucheng Xing, Shouvik Roy, Amol Damare"
+  publication: "Microgrids: Theory and Practice. Chapter 3. "
+  date: "2024-01-18"
+  categories: ["Book Chapter", "Learning", "Microgrids"]
+  url_pdf: ""
+  url_code: ""
+  url_slides: ""
+
+
+
+- path: "https://ieeexplore.ieee.org/abstract/document/10298606"
+  title: "Differential Duffing Oscillator-Based Cyberattack Detection for Inverters"
+  authors: "Zimin Jiang, Peng Zhang, <b>Yifan Zhou</b>"
+  publication: "IEEE Transactions on Smart Grid, vol. 15, no. 1, pp. 2341-2344, Jan. 2024."
+  date: "2023-10-27"
+  categories: ["Journal"]
+  url_pdf: ""
+  url_code: ""
+  url_slides: ""
+
+
+
+
+- path: "https://ieeexplore.ieee.org/abstract/document/10298789"
+  title: "Physics-Aware Neural Dynamic Equivalence of Power Systems"
+  authors: "<u>Qing Shen</u>, <b>Yifan Zhou</b>, Qiang Zhang, Slava Maslennikov, Xiaochuan Luo, Peng Zhang"
+  publication: "IEEE Transactions on Power Systems, accepted, Oct. 2023."
+  date: "2023-10-27"
+  categories: ["Journal", "Learning", "Grid Dynamics"]
+  url_pdf: ""
+  url_code: ""
+  url_slides: ""
+
+
+
+- path: "https://scispace.com/pdf/powering-the-future-harnessing-neural-dynamic-equivalence-3s1kuybiln.pdf"
+  title: "Powering the Future: Harnessing Neural Dynamic Equivalence for Enhanced Power System Applications"
+  authors: "<u>Qing Shen</u>, <b>Yifan Zhou</b>, Huanfeng Zhao, Peng Zhang, Qiang Zhang, Slava Maslenniko, Xiaochuan Luo"
+  publication: "CIGRE US National Committee 2023 Grid of the Future Symposium. <b>Top-5 Finalist</b>."
+  date: "2023-9-27"
+  categories: ["Conference", "Learning", "Grid Dynamics"]
+  url_pdf: ""
+  url_code: ""
+  url_slides: "https://cigre-usnc.org/wp-content/uploads/2023/11/Qing-Shen-presentation.pdf"
+
+
+
+
+- path: "https://ieeexplore.ieee.org/abstract/document/10304823"
+  title: "Data-driven modeling of power system dynamics: Challenges, state of the art, and future work"
+  authors: "Heqing Huang, Yuzhang Lin, <b>Yifan Zhou</b>, Yue Zhao, Peng Zhang, Lingling Fan"
+  publication: "iEnergy, vol. 2, no. 3, pp. 200-221, Sept. 2023."
+  date: "2023-9-27"
+  categories: ["Journal", "Learning", "Grid Dynamics"]
+  url_pdf: ""
+  url_code: ""
+  url_slides: ""
+
+
+
+- path: "https://ieeexplore.ieee.org/abstract/document/10233047"
+  title: "Physics-informed, safety and stability certified neural control for uncertain networked microgrids"
+  authors: "Lizhi Wang, Songyuan Zhang, <b>Yifan Zhou</b>, Chuchu Fan, Peng Zhang, Yacov A Shamash"
+  publication: "IEEE Transactions on Smart Grid, vol. 15, no. 1, pp. 1184-1187, Jan. 2024."
+  date: "2023-8-28"
+  categories: ["Journal", "Learning", "Microgrids", "Grid Dynamics", "Verification"]
+  url_pdf: ""
+  url_code: ""
+  url_slides: ""
+
+
+
+- path: "https://ieeexplore.ieee.org/abstract/document/10364635"
+  title: "Scalable and Lightweight Distributed Local Routing for Quantum Network-Based Microgrids"
+  authors: "<u>Sijia Yu</u>, Zefan Tang, Zimin Jiang, <b>Yifan Zhou</b>"
+  publication: "2023 IEEE Power & Energy Society General Meeting (PESGM)"
+  date: "2023-7-16"
+  categories: ["Conference", "Quantum", "Microgrids"]
+  url_pdf: ""
+  url_code: ""
+  url_slides: ""
+
+
+
+- path: "https://ieeexplore.ieee.org/abstract/document/10253396"
+  title: "Learning-Based, Safety and Stability-Certified Microgrid Control"
+  authors: "Lizhi Wang, Songyuan Zhang, <b>Yifan Zhou</b>, Chuchu Fan, Peng Zhang, Yacov A Shamash"
+  publication: "2023 IEEE Power & Energy Society General Meeting (PESGM)"
+  date: "2023-7-16"
+  categories: ["Conference", "Learning", "Microgrids", "Grid Dynamics", "Verification"]
+  url_pdf: ""
+  url_code: ""
+  url_slides: ""
+
+
+
+- path: "https://ieeexplore.ieee.org/abstract/document/10144277"
+  title: "Noise-Resilient Quantum Power Flow"
+  authors: "Fei Feng, <b>Yifan Zhou</b>, Peng Zhang"
+  publication: "iEnergy, vol. 2, no. 1, pp. 63-70, Mar. 2023."
+  date: "2024-03-18"
+  categories: ["Journal", "Quantum"]
+  url_pdf: ""
+  url_code: ""
+  url_slides: ""
+
+
+
+- path: "https://ieeexplore.ieee.org/abstract/document/9916926"
+  title: "Quantum Renewable Scenario Generation"
+  authors: "Zefan Tang, Peng Zhang, <b>Yifan Zhou</b> "
+  publication: "2022 IEEE Power & Energy Society General Meeting (PESGM)"
+  date: "2022-07-17"
+  categories: ["Conference", "Quantum"]
+  url_pdf: ""
+  url_code: ""
+  url_slides: ""
+
+
+
+- path: "https://ieeexplore.ieee.org/abstract/document/9831167"
+  title: "Quantum Computing in Power Systems"
+  authors: " <b>Yifan Zhou</b>, Zefan Tang, Nima Nikmehr, Pouya Babahajiani, Fei Feng, Tzu-Chieh Wei, Honghao Zheng, Peng Zhang"
+  publication: "iEnergy, vol. 1, no. 2, pp. 1-18, Jul. 2022. <b>Best Paper Award</b>."
+  date: "2022-06-18"
+  categories: ["Journal", "Quantum"]
+  url_pdf: ""
+  url_code: ""
+  url_slides: ""
+
+
+
+- path: "https://ieeexplore.ieee.org/abstract/document/9779113"
+  title: "Distributed networked microgrids power flow"
+  authors: " Fei Feng, Peng Zhang, <b>Yifan Zhou</b>, Lizhi Wang"
+  publication: "IEEE Transactions on Power Systems, vol. 38, no. 2, pp. 1405-1419, Mar. 2023."
+  date: "2022-05-19"
+  categories: ["Journal", "Microgrids"]
+  url_pdf: ""
+  url_code: ""
+  url_slides: ""
+
+
+
+- path: "https://ieeexplore.ieee.org/abstract/document/9769895"
+  title: "Noisy-Intermediate-Scale Quantum Electromagnetic Transients Program"
+  authors: " <b>Yifan Zhou</b>, Peng Zhang, Fei Feng"
+  publication: "IEEE Transactions on Power Systems, vol. 38, no. 2, pp. 1558-1571, Mar. 2023."
+  date: "2022-05-05"
+  categories: ["Journal", "Quantum", "EMT"]
+  url_pdf: ""
+  url_code: ""
+  url_slides: ""
+
+
+
+- path: "https://ieeexplore.ieee.org/abstract/document/9737359"
+  title: "Noise-Resilient Quantum Machine Learning for Stability Assessment of Power Systems"
+  authors: " <b>Yifan Zhou</b>, Peng Zhang"
+  publication: "IEEE Transactions on Power Systems, vol. 38, no. 1, pp. 475-487, Jan. 2023."
+  date: "2022-03-18"
+  categories: ["Journal", "Quantum", "Learning", "Grid Dynamics"]
+  url_pdf: ""
+  url_code: ""
+  url_slides: ""
+
+
+
+- path: "https://ieeexplore.ieee.org/abstract/document/9682516"
+  title: "Authentic Microgrid State Estimation"
+  authors: " Fei Feng, Peng Zhang, <b>Yifan Zhou</b> "
+  publication: "IEEE Transactions on Power Systems, vol. 37, no. 2, pp. 1657-1660, Mar. 2022."
+  date: "2022-01-14"
+  categories: ["Journal", "Microgrids"]
+  url_pdf: ""
+  url_code: ""
+  url_slides: ""
+
+
+
+- path: "https://www.sciencedirect.com/science/article/abs/pii/S0378779622003029"
+  title: "AI-Enabled Traveling Wave Protection for Microgrids"
+  authors: "Dmitriy A. Etingov, Peng Zhang,  <b>Yifan Zhou</b> "
+  publication: "Electric Power Systems Research, vol. 210, pp. 108078, Sep. 2022."
+  date: "2022-09-01"
+  categories: ["Journal", "Learning", "Microgrids"]
+  url_pdf: ""
+  url_code: ""
+  url_slides: ""
+
+
+
+- path: "https://www.sciencedirect.com/science/article/pii/S0378779622005235"
+  title: "Quantum Microgrid State Estimation"
+  authors: " Fei Feng, Peng Zhang, <b>Yifan Zhou</b>, Tang Zefan "
+  publication: "Electric Power Systems Research, vol. 212, pp. 108386, Nov. 2022."
+  date: "2022-11-01"
+  categories: ["Journal", "Quantum", "Microgrids"]
+  url_pdf: ""
+  url_code: ""
+  url_slides: ""
+
+
+
+- path: "https://ieeexplore.ieee.org/abstract/document/9793720"
+  title: "Novel Resolution of Unit Commitment Problems Through Quantum Surrogate Lagrangian Relaxation"
+  authors: " Feng Fei, Peng Zhang, Mikhail Bragin, <b>Yifan Zhou</b> "
+  publication: "IEEE Transactions on Power Systems, vol. 38, no. 3, pp. 2460-2471, May 2023."
+  date: "2022-06-18"
+  categories: ["Journal", "Quantum"]
+  url_pdf: ""
+  url_code: ""
+  url_slides: ""
+
+
+
+- path: "https://ieeexplore.ieee.org/abstract/document/9916869 "
+  title: "Neural Electromagnetic Transient Program"
+  authors: " <b>Yifan Zhou</b>, Peng Zhang "
+  publication: "2022 IEEE Power & Energy Society General Meeting (PESGM)"
+  date: "2022-07-18"
+  categories: ["Journal", "Learning", "EMT"]
+  url_pdf: ""
+  url_code: ""
+  url_slides: ""
+
+
+
+- path: "https://ieeexplore.ieee.org/abstract/document/9454289"
+  title: "Eigenanalysis of Delayed Networked Microgrids"
+  authors: " Lizhi Wang, <b>Yifan Zhou</b>, Wenfeng Wan, Hua Ye, Peng Zhang "
+  publication: "IEEE Transactions on Power Systems, vol. 36, no. 5, pp. 4860-4863, Sept. 2021."
+  date: "2021-06-14"
+  categories: ["Journal", "Microgrids", "Grid Dynamics"]
+  url_pdf: ""
+  url_code: ""
+  url_slides: ""
+
+
+
+- path: "https://ieeexplore.ieee.org/abstract/document/9444806"
+  title: "Neuro-Reachability of Networked Microgrids"
+  authors: " <b>Yifan Zhou</b>, Peng Zhang "
+  publication: "IEEE Transactions on Power Systems, vol. 37, no. 1, pp. 142-152, Jan. 2022."
+  date: "2021-06-01"
+  categories: ["Journal", "Learning", "Microgrids", "Grid Dynamics", "Verification"]
+  url_pdf: ""
+  url_code: ""
+  url_slides: ""
+
+
+
+- path: "https://ieeexplore.ieee.org/abstract/document/9423668"
+  title: "Quantum Power Flow"
+  authors: " Fei Feng, <b>Yifan Zhou</b>, Peng Zhang "
+  publication: "IEEE Transactions on Power Systems, vol. 36, no. 4, pp. 3810-3812, Jul. 2021."
+  date: "2021-05-04"
+  categories: ["Journal", "Quantum"]
+  url_pdf: ""
+  url_code: ""
+  url_slides: ""
+
+
+
+- path: "https://ieeexplore.ieee.org/abstract/document/9381698"
+  title: "Quantum Electromagnetic Transients Program"
+  authors: " <b>Yifan Zhou</b>, Fei Feng, Peng Zhang"
+  publication: "IEEE Transactions on Power Systems, vol. 36, no. 4, pp. 3813-3816, Jul. 2021."
+  date: "2021-03-18"
+  categories: ["Journal", "Quantum", "EMT"]
+  url_pdf: ""
+  url_code: ""
+  url_slides: ""
+
+
+
+- path: "https://ieeexplore.ieee.org/abstract/document/9246286"
+  title: "Reachable Dynamics of Networked Microgrids With Large Disturbances"
+  authors: " <b>Yifan Zhou</b>, Peng Zhang, Meng Yue "
+  publication: "IEEE Transactions on Power Systems, vol. 36, no. 3, pp. 2416-2427, May 2021."
+  date: "2020-10-30"
+  categories: ["Journal", "Microgrids", "Grid Dynamics", "Verification"]
+  url_pdf: ""
+  url_code: ""
+  url_slides: ""
+
+
+
+- path: "https://ieeexplore.ieee.org/abstract/document/9224183"
+  title: "Reachable Power Flow: Theory to Practice"
+  authors: " <b>Yifan Zhou</b>, Peng Zhang "
+  publication: "IEEE Transactions on Power Systems, vol. 36, no. 3, pp. 2532-2541, May 2021."
+  date: "2020-10-14"
+  categories: ["Journal", "Verification"]
+  url_pdf: ""
+  url_code: ""
+  url_slides: ""
+
+
+
+- path: "https://ieeexplore.ieee.org/abstract/document/9282139"
+  title: "An ODE-Enabled Distributed Transient Stability Analysis for Networked Microgrids"
+  authors: " <b>Yifan Zhou</b>, Peng Zhang, Meng Yue "
+  publication: "2020 IEEE Power & Energy Society General Meeting (PESGM)"
+  date: "2020-08-02"
+  categories: ["Conference", "Microgrids", "Grid Dynamics"]
+  url_pdf: ""
+  url_code: ""
+  url_slides: ""
+
+
+
+- path: "https://ieeexplore.ieee.org/abstract/document/9144475"
+  title: "Reachable Eigenanalysis"
+  authors: " <b>Yifan Zhou</b>, Peng Zhang "
+  publication: "IEEE Transactions on Power Systems, vol. 35, no. 6, pp. 4936-4939, Nov. 2020."
+  date: "2020-07-20"
+  categories: ["Journal", "Grid Dynamics", "Verification"]
+  url_pdf: ""
+  url_code: ""
+  url_slides: ""
+
+
+
+- path: "https://ieeexplore.ieee.org/abstract/document/8999743"
+  title: "Reachable Power Flow"
+  authors: " <b>Yifan Zhou</b>, Peng Zhang "
+  publication: "IEEE Transactions on Power Systems, vol. 35, no. 4, pp. 3290-3293, Jul. 2020."
+  date: "2020-02-14"
+  categories: ["Journal", "Verification"]
+  url_pdf: ""
+  url_code: ""
+  url_slides: ""
+
+
+
+- path: "https://www.sciencedirect.com/science/article/pii/S0360544219321218"
+  title: "Power and energy flexibility of district heating system and its application in wide-area power and heat dispatch"
+  authors: " <b>Yifan Zhou</b>, Wei Hu, Le Zheng, Yong Min, Lei Chen, Zongxiang Lu, Ling Dong "
+  publication: "Energy, vol. 190, Jan. 2020."
+  date: "2020-01-01"
+  categories: ["Journal"]
+  url_pdf: ""
+  url_code: ""
+  url_slides: ""
+
+
+
+- path: " "
+  title: "Coordinated power and heat dispatch considering peak regulation initiative of combined heat and power unit"
+  authors: " <b>Yifan Zhou</b>, Wei Hu, Yong Min, Ling Dong, Yanhe Li"
+  publication: "Automation of Electric Power Systems, vol. 43, no. 19, pp. 42-51, 2019."
+  date: "2019-06-01"
+  categories: ["Journal"]
+  url_pdf: ""
+  url_code: ""
+  url_slides: ""
+
+
+
+- path: " "
+  title: "Peak Regulation Compensation Price Decision for Combined Heat and Power Unit and Profit Allocation Method"
+  authors: " <b>Yifan Zhou</b>, Wei Hu, Yong Min "
+  publication: "Proceedings of the CSEE, vol. 39, no. 18, pp. 5325-5335+5579, 2019."
+  date: "2019-06-01"
+  categories: ["Journal"]
+  url_pdf: ""
+  url_code: ""
+  url_slides: ""
+
+
+
+- path: "https://ieeexplore.ieee.org/abstract/document/8982276"
+  title: "Active splitting strategy searching approach based on MISOCP with consideration of power island stability"
+  authors: " <b>Yifan Zhou</b>, Wei Hu, Yong Min, Le Zheng "
+  publication: "Journal of Modern Power Systems and Clean Energy, vol. 7, no. 3, pp. 475-490, May 2019."
+  date: "2019-06-01"
+  categories: ["Journal", "Grid Dynamics"]
+  url_pdf: ""
+  url_code: ""
+  url_slides: ""
+
+
+
+- path: "https://ieeexplore.ieee.org/abstract/document/8437173"
+  title: "Integrated Power and Heat Dispatch Considering Available Reserve of Combined Heat and Power Units"
+  authors: " <b>Yifan Zhou</b>, Wei Hu, Yong Min, Yuanhang Dai "
+  publication: "IEEE Transactions on Sustainable Energy, vol. 10, no. 3, pp. 1300-1310, Jul. 2019."
+  date: "2018-08-18"
+  categories: ["Journal"]
+  url_pdf: ""
+  url_code: ""
+  url_slides: ""
+
+
+
+- path: "https://ieeexplore.ieee.org/abstract/document/8273883"
+  title: "A semi-supervised anomaly detection method for wind farm power data preprocessing"
+  authors: " <b>Yifan Zhou</b>, Wei Hu, Yong Min, Le Zheng, Baisi Liu, Rui Yu, Yu Dong "
+  publication: "2017 IEEE Power & Energy Society General Meeting"
+  date: "2017-07-18"
+  categories: ["Journal", "Learning"]
+  url_pdf: ""
+  url_code: ""
+  url_slides: ""

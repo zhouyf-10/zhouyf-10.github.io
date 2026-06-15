@@ -1,0 +1,25 @@
+---
+title: "Awards and Recognitions"
+listing:
+    - id: awards
+      contents:
+        - awards/*.yml
+      type: table
+      fields: [date, title, subtitle, description]
+      field-display-names:
+        title: "Award"
+        date: "Date"
+        subtitle: "Type"
+        description: "Note"
+      sort:
+        - "date desc"
+      page-size: 100
+      categories: false
+      sort-ui: false
+      filter-ui: false
+# date-format: "MMM, YYYY"
+page-navigation: false
+title-block-banner: false
+---
+
+<!-- Selected recognitions for research, papers, and professional service. -->

@@ -1,0 +1,52 @@
+---
+title: "Yifan Zhou"
+subtitle: |
+    Assistant Professor \
+    Stony Brook University
+image: "files/avatar/yifan_2024_square_3000x3000.png"
+about:
+    id: pi-info
+    template: trestles
+    image-shape: round
+listing:
+    - id: latest-news
+      contents: 
+        - news/highlights.yml
+      type: grid
+      max-items: 3
+      fields: [image, date, title, description]
+      max-description-length: 500
+      sort:
+        - "date desc"
+        - "title desc"
+# date-format: "MMM, YYYY"
+page-layout: full
+toc: false
+page-navigation: false
+title-block-banner: false
+---
+
+:::{#pi-info}
+
+Yifan Zhou is an Assistant Professor in the [Department of Electrical and Computer Engineering](https://www.stonybrook.edu/electrical/) at Stony Brook University. Her research aims to build real-time grid intelligence for modern power systems under increasing dynamics, uncertainty, and complexity. Toward this goal, her group develops grid-inspired quantum computing and verifiable AI technologies for reliable, adaptive, and scalable power system operations, with a particular focus on dynamic analysis, stability verification, and real-time decision-making.
+
+Her work on quantum computing for large-scale power grids has been recognized by several awards, including the NSF CAREER Award (2026), Finalist of Stony Brook University's Discovery Prize (2025), the Young Academic Inventors Award from the National Academy of Inventors (2023), and multiple Best Paper Awards.
+
+
+## Education
+
+- **Tsinghua University** | Sept 2014 - Jan 2019
+    - Ph.D. in Electrical Engineering 
+    - Advisors: Prof. [Yong Min](https://www.eea.tsinghua.edu.cn/en/info/1152/2366_2.htm)
+
+- **Tsinghua University** | Sept 2010 - June 2014
+    - B.Sc. in Electrical Engineering
+    
+:::
+
+## News Highlights
+
+:::{#latest-news}
+:::
+
+<p align="right">[All News &raquo;](news.html)</p>

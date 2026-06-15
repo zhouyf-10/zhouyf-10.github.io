@@ -1,0 +1,34 @@
+```{=html}
+<% const groups = ["Undergraduate Students", "High School Students", "Short-Term Research Assistants"] %>
+<% for (const group of groups) { %>
+    <% const groupItems = items.filter((item) => item.group === group) %>
+    <% if (groupItems.length > 0) { %>
+        <h3><%= group %></h3>
+        <ul class="mentored-students">
+        <% for (const item of groupItems) { %>
+            <% const names = Array.isArray(item.names) ? item.names : [] %>
+            <% const formattedNames = names.map((name) => `<strong>${name}</strong>`) %>
+            <% let namesText = formattedNames.join(", ") %>
+            <% if (formattedNames.length > 1) { namesText = `${formattedNames.slice(0, -1).join(", ")}, and ${formattedNames[formattedNames.length - 1]}` } %>
+            <% const projectUrl = (item.project_url || "").trim() %>
+            <% const hasProjectUrl = projectUrl !== "" %>
+            <li class="mentored-student-item" <%= metadataAttrs(item) %>>
+                <%= namesText %>
+                <% if (item.role) { %>
+                    (<%= item.role %>)
+                <% } %>
+                <% if (item.project) { %>
+                    , <% if (hasProjectUrl) { %><a href="<%= projectUrl %>"><%= item.project %></a><% } else { %><%= item.project %><% } %>
+                <% } %>
+                <% if (item.period) { %>
+                    , <%= item.period %>
+                <% } %>
+                <% if (item.note) { %>
+                    ; <%= item.note %>
+                <% } %>
+            </li>
+        <% } %>
+        </ul>
+    <% } %>
+<% } %>
+```

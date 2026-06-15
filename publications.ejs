@@ -1,0 +1,45 @@
+```{=html}
+<%
+function formatPublication(publication) {
+    return (publication || "").replace(/<b>(Best Paper Award|AI Youth Star Award|Top-5 Finalist)<\/b>/g, '<span class="publication-award">$1</span>');
+}
+%>
+<div class="list publication-list">
+<% for (const item of items) { %>
+    <% const item_path = (item.path || "").trim() %>
+    <% const has_path = item_path !== "" && item_path !== "#" %>
+    <% const url_pdf = (item.url_pdf || "").trim() %>
+    <% const url_code = (item.url_code || "").trim() %>
+    <% const url_slides = (item.url_slides || "").trim() %>
+    <% const has_pdf = url_pdf !== "" %>
+    <% const has_code = url_code !== "" %>
+    <% const has_slides = url_slides !== "" %>
+    <% const categories = Array.isArray(item.categories) ? item.categories : [] %>
+    <div class="publication-item" <%= metadataAttrs(item) %>>
+        <p class="publication-title"><i class="far fa-file-alt pub-icon" style="font-size:medium"></i>&ensp;<% if (has_path) { %><a href="<%= item_path %>"><%= item.title %></a><% } else { %><%= item.title %><% } %></p>
+        <p class="publication-metadata"><%= item.authors %></p>
+        <p class="publication-metadata"><i><%= formatPublication(item.publication) %></i></p>
+        <% if (categories.length > 0) { %>
+            <p class="publication-tags">
+                <% for (const category of categories) { %>
+                    <button type="button" class="publication-tag" data-publication-filter="<%= category %>"><%= category %></button>
+                <% } %>
+            </p>
+        <% } %>
+        <% if (has_pdf || has_code || has_slides) { %>
+            <p class="publication-links">
+                <% if (has_pdf) { %>
+                    <a href="<%= url_pdf %>" class="publication-btn" target="_blank" rel="noopener"><i class="bi bi-file-earmark-pdf"></i> PDF</a> 
+                <% } %>
+                <% if (has_code) { %>
+                    <a href="<%= url_code %>" class="publication-btn" target="_blank" rel="noopener"><i class="bi bi-code-square"></i> Code</a> 
+                <% } %>
+                <% if (has_slides) { %>
+                    <a href="<%= url_slides %>" class="publication-btn" target="_blank" rel="noopener"><i class="bi bi-file-earmark-slides"></i> Slides</a> 
+                <% } %>
+            </p>
+        <% } %>
+    </div>
+<% } %>
+</div>
+```

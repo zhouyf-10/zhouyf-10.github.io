@@ -1,0 +1,122 @@
+---
+title: "EEO 425: Electric Machinery and Energy Conversion (Fall 2025)"
+date: "2026-01-01"
+categories: ["Undergraduate"]
+# date-format: "MMM, YYYY"
+---
+
+## Course Information
+
+- Instructor: [Yifan Zhou](https://yifanzhou.info/)
+- Course format: Asynchronous online. Lecture recordings will be posted every **Tuesday** and **Thursday** evening.
+- Zoom link: To be posted on Brightspace.
+- Office hours: Wednesday 1 pm-5 pm (in-person or online)
+
+## Course Description
+
+An introduction to the conversion of mechanical power to electric power (generators) and the conversion of electric power to mechanical power (motors). Analysis of the interaction of magnetic fields with electric current and moving conductors to produce electromagnetic force and induced voltage. Energy converters studied include three phase AC synchronous generators and motors, AC induction motors, DC linear and rotating machines, and single-phase AC motors. An introduction to inverter-based renewable energy generation in power systems.
+
+## Textbook
+
+Electric Machinery Fundamentals (5th ed. McGraw Hill) Chapman (ISBN 978-07-352954-0)
+
+## Prerequisites
+ESE 271 - Electrical Circuit Analysis   
+
+
+## Course Learning Objectives
+
+Upon completion of this course, students will demonstrate an understanding of: 	
+- The interaction of magnetic fields with electric current and moving conductors in the production of electromagnetic induced force and voltage.
+- The design and application of three phase AC synchronous generators, induction machines and synchronous motors.
+- The design and application of DC generators and motors. 
+- The design and application of single-phase AC machines.
+- Fundamental knowledge of power converters and the application of inverter-based resources (IBRs) in power systems
+
+## Grading
+
+Final grade will be determined as follows:
+
+- Homework: 27% (9 assignments in total)
+- In-Qlass Quiz: 8% (8 quizzes in total)
+- Mid-term exam: 30%
+- Final exam: 30%
+- Class Participation: 5%
+
+### Homework
+Homework assignments are posted every Thursday and are typically due by midnight
+the following **Sunday**.
+
+### Quiz
+The weekly quiz will cover material discussed during the previous session. They will be posted every **Thursday** at 4 pm and are due by midnight on **Friday**.
+
+### Exams
+The midterm exam covers Lectures 1–5, and the final exam covers Lectures 6–10. Each exam will include two types of questions: short-answer questions focusing on fundamental concepts discussed in the lectures, and computational problems adapted from the homework.
+
+
+## Course Schedule
+
+The schedule of lectures, quizzes, and homework (HW) is as follows and is subject to change.
+
+<style>
+.course-schedule table {
+  width: 100%;
+  table-layout: fixed;
+}
+
+.course-schedule th:nth-child(1),
+.course-schedule td:nth-child(1) {
+  width: 12%;
+}
+
+.course-schedule th:nth-child(2),
+.course-schedule td:nth-child(2) {
+  width: 76%;
+}
+
+.course-schedule th:nth-child(3),
+.course-schedule td:nth-child(3),
+.course-schedule th:nth-child(4),
+.course-schedule td:nth-child(4){
+  width: 6%;
+  text-align: center;
+}
+
+.course-schedule td,
+.course-schedule th {
+  vertical-align: top;
+}
+</style>
+
+::: {.course-schedule}
+
+| Week | Lecture | Quiz | HW | | --- | --- | --- | --- | 
+| Week 1<br>(Aug. 25/27) | **Lecture 1: Overview of electromechanical energy converter fundamentals**<br>- Rotational motion, power, magnetic fields and circuits<br>- Induced force and voltage<br>- Linear DC machine<br>- Real, reactive, and apparent power flow in AC circuits<br>- Faraday’s Law | | HW1 | 
+| Week 2<br>(Sep. 1/3) | **Lecture 2: Transformers**<br>- Ideal transformers<br>- Equivalent circuit<br>- Efficiency and voltage regulation<br>- Three-phase transformers | Q1 | HW2 | 
+| Week 3<br>(Sep. 8/10) | **Lecture 3: Fundamentals of AC machines**<br>- Rotating loop in magnetic field<br>- Induced voltage in AC machines<br>- Induced torque<br>- Machine power flow and losses | Q2 | HW3 | 
+| Week 4<br>(Sep. 15/17) | **Lecture 4: Synchronous generators**<br>- Construction<br>- Relationship between rotor mechanical speed and electrical frequency<br>- Internal generator voltage and equivalent circuit<br>- Phasor diagram representation<br>- Power, torque, operation, and ratings | Q3 | HW4 | 
+| Week 5<br>(Sep. 22/24) | **Lecture 5: Synchronous motors**<br>- Rotating magnetic field<br>- Equivalent circuit<br>- Steady-state operation<br>- Starting issues<br>- Phasor diagrams and ratings | Q4 | HW5 | 
+| Week 6<br>(Sep. 29/Oct. 1) | **Review session for midterm exam** | | | 
+| Week 7<br>(Oct. 6) | **Midterm exam**<br>Covering Lectures 1-5. | | | 
+| Week 8–9<br>(Oct. 15/20/22) | **Lecture 6: Induction machines**<br>- Review of midterm exam<br>- Construction, slip, and frequency<br>- Equivalent circuit and torque<br>- Torque-speed characteristics<br>- Induction motor design and starting challenges<br>- Speed control, induction generators, and ratings | 
+| HW6 | | Week 10<br>(Oct. 27/29)  | **Lecture 7: DC machinery fundamentals**<br>- Rotating coil between magnetic poles<br>- Commutation<br>- Induced voltage and torque<br>- Machine construction<br>- Power flow and losses | Q5 | HW7 | 
+| Week 11<br>(Nov. 3/5) | **Lectures 8/9: DC motors and generators**<br>- Equivalent circuits for separately excited, shunt, permanent magnet, series, and compound machines<br>- Starting circuits<br>- Machine efficiency | | HW8 | 
+| Week 12<br>(Nov. 10/12) | **Lecture 10: Single-phase motors**<br>- Universal motor<br>- Single-phase induction motor<br>- Starting challenges<br>- Equivalent circuits | Q6 | HW9 | 
+| Week 13<br>(Nov. 17/19) | **Seminar 1: Inverter-based resources (IBRs)**<br>- IBR modeling<br>- Maximum power point tracking (MPPT)<br>- Grid connection<br>- Primary control, secondary control, and distributed control | Q7 | | 
+| Week 14<br>(Nov. 24) | **Seminar 2: AI/ML in energy conversion and energy systems** | Q8 | | | Week 14<br>(Nov. 26) | **Thanksgiving Break** (no classes in session) | | | | Week 15<br>(Dec. 1/3) | **Review session for final exam** | | | | TBD | **Final exam**<br>Covering Lectures 6-10. | | |
+
+:::
+
+
+
+## Student Accessibility Support Center Statement
+
+If you have a physical, psychological, medical, or learning disability that may impact your course work, please contact the Student Accessibility Support Center, Stony Brook Union Suite 107, (631) 632-6748, or at sasc@stonybrook.edu.  They will determine with you what accommodation is necessary and appropriate.  All information and documentation are confidential. 
+
+
+
+## Academic Integrity Statement
+Each student must pursue his or her academic goals honestly and be personally accountable for all submitted work.  Representing another person’s work as your own is always wrong.  Faculty is required to report any suspected instances of academic dishonesty to the Academic Judiciary.   Faculty in the Health Sciences Center (School of Health Technology and Management, Nursing, Social Welfare, Dental Medicine) and School of Medicine are required to follow their school-specific procedures.  For more comprehensive information on academic integrity, including categories of academic dishonesty please refer to the academic judiciary website at http://www.stonybrook.edu/commcms/academic_ integrity/index.html.
+
+## Critical Incident Management
+Stony Brook University expects students to respect the rights, privileges, and property of other people. Faculty are required to report to the Office of University Community Standards any disruptive behavior that interrupts their ability to teach, compromises the safety of the learning environment, or inhibits students’ ability to learn. Faculty in the HSC Schools and the School of Medicine are required to follow their school-specific procedures.  Further information about most academic matters can be found in the Undergraduate Bulletin, the Undergraduate Class Schedule, and the Faculty-Employee Handbook.

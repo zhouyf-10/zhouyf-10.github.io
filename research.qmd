@@ -1,0 +1,72 @@
+---
+title: "Research"
+listing:
+    - id: publications
+      contents: 
+        - publications/*.yml
+      type: custom
+      sort:
+        - "date desc"
+      page-size: 100
+      categories: false
+      template: publications.ejs
+    - id: grants
+      contents: 
+        - grants/*.yml
+      type: custom
+      sort:
+        - "date desc"
+      page-size: 100
+      categories: false
+      template: grants.ejs
+page-navigation: false
+title-block-banner: false
+css: research.css
+---
+
+## Selected Publications
+
+<div class="publication-filters" aria-label="Filter publications by category">
+  <button type="button" class="publication-filter is-active" data-publication-filter="all">All</button>
+  <button type="button" class="publication-filter" data-publication-filter="Quantum">Quantum</button>
+  <button type="button" class="publication-filter" data-publication-filter="Learning">Learning</button>
+  <button type="button" class="publication-filter" data-publication-filter="Verification">Verification</button>
+  <button type="button" class="publication-filter" data-publication-filter="Grid Dynamics">Grid Dynamics</button>
+  <button type="button" class="publication-filter" data-publication-filter="EMT">EMT</button>
+  <button type="button" class="publication-filter" data-publication-filter="Microgrids">Microgrids</button>
+  <button type="button" class="publication-filter" data-publication-filter="Journal">Journal</button>
+  <button type="button" class="publication-filter" data-publication-filter="Conference">Conference</button>
+  <button type="button" class="publication-filter" data-publication-filter="Book Chapter">Book Chapter</button>
+</div>
+
+::: {#publications}
+:::
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const filterButtons = document.querySelectorAll("[data-publication-filter]");
+  const filterControls = document.querySelectorAll(".publication-filter");
+  const publicationItems = document.querySelectorAll("#listing-publications .publication-item");
+
+  function applyPublicationFilter(category) {
+    filterControls.forEach((button) => {
+      button.classList.toggle("is-active", button.dataset.publicationFilter === category);
+    });
+
+    publicationItems.forEach((item) => {
+      const itemCategories = Array.from(item.querySelectorAll(".publication-tag")).map((tag) => tag.dataset.publicationFilter);
+      item.hidden = category !== "all" && !itemCategories.includes(category);
+    });
+  }
+
+  filterButtons.forEach((button) => {
+    button.addEventListener("click", function () {
+      applyPublicationFilter(button.dataset.publicationFilter);
+    });
+  });
+});
+</script>
+
+## Grants
+::: {#grants}
+:::

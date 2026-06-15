@@ -1,0 +1,12 @@
+```{=html}
+<div class="list publication-list">
+<% for (const item of items) { %>
+    <% const item_path = (item.path || "").trim() %>
+    <% const has_path = item_path !== "" && item_path !== "#" %>
+    <div class="publication-item" <%= metadataAttrs(item) %>>
+        <p class="publication-title"><i class="far fa-file-alt pub-icon" style="font-size:medium"></i>&ensp;<% if (has_path) { %><a href="<%= item_path %>"><%= item.title %></a><% } else { %><%= item.title %><% } %></p>
+        <p class="publication-metadata"><%= item.agency %>, <b><%= item.role %></b>, <i><%= item.duration %></i></p>
+    </div>
+<% } %>
+</div>
+```
