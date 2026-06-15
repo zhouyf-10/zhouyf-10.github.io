@@ -6,7 +6,7 @@ title-block-banner: false
 
 ## Teaching Interests
 
-I develop and teach courses at the intersection of power systems, artificial intelligence, and quantum computing. A central theme of my teaching is that computational methods for power systems should not be treated as black-box tools, but should be designed with guidance from the underlying physical principles of electric grids. In this spirit, I aim to help students develop both a deep understanding of grid physics and the ability to build physically grounded tools for analyzing, operating, and securing modern power systems.
+I develop and teach courses at the intersection of power systems, artificial intelligence, and quantum computing. A central theme of my teaching is that computational methods for power systems should not be treated as black-box tools, but instead grounded in the physical principles of electric grids. In this spirit, I aim to help students develop both a deep understanding of grid physics and the ability to build physically grounded tools for analyzing, operating, and securing modern power systems.
 
 ## Courses
 

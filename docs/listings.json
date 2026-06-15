@@ -1,14 +1,14 @@
 [
   {
+    "listing": "/index.html",
+    "items": []
+  },
+  {
     "listing": "/awards.html",
     "items": []
   },
   {
-    "listing": "/lab.html",
-    "items": []
-  },
-  {
-    "listing": "/index.html",
+    "listing": "/research.html",
     "items": []
   },
   {
@@ -16,7 +16,7 @@
     "items": []
   },
   {
-    "listing": "/research.html",
+    "listing": "/lab.html",
     "items": []
   }
 ]

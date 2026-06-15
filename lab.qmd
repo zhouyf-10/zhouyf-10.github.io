@@ -58,16 +58,16 @@ title-block-banner: false
 :::{#lab-info}
 :::
 
-Our lab develops grid-inspired computing and learning methods that support reliable, adaptive, and scalable power system operations. Deeply grounded in power system physics, our work rethinks how emerging computing paradigms, including AI, quantum computing, and formal verification, can harness the intrinsic characteristics of electric grids to address modern grid challenges.
+Our lab develops grid-inspired computing and learning methods for reliable, adaptive, and scalable power system operations. Grounded in grid physics, we explore how AI, quantum computing, and formal verification can harness the intrinsic characteristics of electric grids to address modern energy challenges.
 
 Current research interests include:
 
-- Grid-inspired quantum computing for power grid analysis, e.g., power flow and EMT simulation.
-- Verifiable AI for power systems, e.g., verification of learning components and learning-based verification.
-- Dynamic verification, stability analysis, and real-time decision-making.
-- Resilient operation of IBR-rich grids, microgrids, and networked energy systems.
+- Grid-inspired quantum computing.
+- Verifiable AI for power grids.
+- Dynamic verification and stability analysis.
+- Resilient operation of IBR-rich grids.
 
-**We are looking for self-motivated Ph.D. students with a solid background in power system dynamics and stability analysis, as well as a strong interest in machine learning or quantum computing. If you are interested in joining our group, please [email me](mailto:yifan.zhou.1@stonybrook.edu) with your CV and transcripts.**
+**We are looking for self-motivated Ph.D. students with a strong background in power system dynamics and stability, and an interest in machine learning or quantum computing. Interested applicants are welcome to [email me](mailto:yifan.zhou.1@stonybrook.edu) with your CV and transcripts.**
 
 ## Lab Members
 
