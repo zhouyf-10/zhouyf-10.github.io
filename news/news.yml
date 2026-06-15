@@ -7,7 +7,7 @@
 - date: "2026-05"
   display_date: "2026/05"
   title: "Best Paper at PESGM 2026."
-  description: "Our paper, [*Stabilizing Quantum EMT on Noisy Hardware Using Multidimensional Richardson Extrapolation*](https://drive.google.com/file/d/1JQyNwV3Un-Szt53OG3B-tE2OkKUdhKqQ/view?usp=drive_link), has been selected for the Best Paper Session (AMPS) at the 2026 IEEE PES General Meeting. Congratulations to Ph.D. student Sijia Yu! The session is scheduled for Monday, July 20 2026, 1:00-4:50 PM. Please consider stopping by!"
+  description: "Our paper, [*Stabilizing Quantum EMT on Noisy Hardware Using Multidimensional Richardson Extrapolation*](https://drive.google.com/file/d/1JQyNwV3Un-Szt53OG3B-tE2OkKUdhKqQ/view?usp=drive_link), has been selected for the Best Paper Session (AMPS) at the 2026 IEEE PES General Meeting. The session is scheduled for Monday, July 20 2026, 1:00-4:50 PM. Please consider stopping by!"
   categories: ["Award", "Publication"]
 
 - date: "2026-04"
@@ -19,7 +19,7 @@
 - date: "2026-04"
   display_date: "2026/04"
   title: "NSF CAREER Award."
-  description: "I received the NSF CAREER Award from the ECCS/EPCL Program. This project will support the research and teaching on [**Fully Quantum Power Grid Analysis**](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2542805) over the next five years. Thanks, NSF!"
+  description: "I received the NSF CAREER Award from the ECCS/EPCL Program. This project will support our research and teaching on [**Fully Quantum Power Grid Analysis**](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2542805). Thanks, NSF!"
   categories: ["Award", "Grant"]
 
 - date: "2026-02"
@@ -50,13 +50,13 @@
 - date: "2026-01"
   display_date: "2026/01"
   title: "Paper Accepted by IEEE PESGM 2026." # 
-  description: "Our recent work on *Stabilizing Quantum EMT on Noisy Hardware Using Multidimensional Richardson Extrapolation* has been accepted by the 2026 IEEE PES General Meeting. This work develops a multidimensional Richardson extrapolation method to mitigate errors across the full QEMT simulation pipeline. Check out the [extended version](https://drive.google.com/file/d/1JQyNwV3Un-Szt53OG3B-tE2OkKUdhKqQ/view?usp=drive_link) here."
+  description: "Our recent work on *Stabilizing Quantum EMT on Noisy Hardware Using Multidimensional Richardson Extrapolation* has been accepted by the 2026 IEEE PES General Meeting. Check out the [extended version](https://drive.google.com/file/d/1JQyNwV3Un-Szt53OG3B-tE2OkKUdhKqQ/view?usp=drive_link) here."
   categories: ["Publication"]
 
 - date: "2026-01"
   display_date: "2026/01"
   title: "New Undergraduate Course" # 
-  description: "I will launch a new course in Spring 2026, [SBU 102.S260: Smart Grids with AI and Quantum: Hands-On Explorations](courses/sbu-sbu102/spring2026.qmd). This 10-week course introduces first-year students to how electricity grids work and how emerging AI and quantum tools may shape future energy systems."
+  description: "I will launch a new course in Spring 2026, [SBU 102.S260: Smart Grids with AI and Quantum: Hands-On Explorations](courses/sbu-sbu102/spring2026.qmd). This 10-week course introduces first-year students to how emerging AI and quantum tools may shape future energy systems."
   categories: ["Teaching"]
 
 - date: "2026-01"
@@ -68,7 +68,7 @@
 - date: "2025-12"
   display_date: "2025/12"
   title: "Paper Accepted by IEEE TPWRS."
-  description: "Our recent work, [HyMod](https://ieeexplore.ieee.org/abstract/document/11353030), has been accepted by IEEE Transactions on Power Systems. HyMod is a physics-data-hybrid mode decomposition approach for accelerating multi-contingency simulation of power grids. Congratulations to Ph.D. student Yao Xiao!"
+  description: "Our recent work, [HyMod](https://ieeexplore.ieee.org/abstract/document/11353030), has been accepted by IEEE Transactions on Power Systems. HyMod is a physics-data-hybrid mode decomposition approach for accelerating multi-contingency simulation of power grids. "
   categories: ["Publication"]
 
 - date: "2025-11"
@@ -87,7 +87,7 @@
 - date: "2025-10"
   display_date: "2025/10"
   title: "Paper Accepted by IEEE TIA."
-  description: "Our recent work, [LPHN-Sim](https://ieeexplore.ieee.org/abstract/document/11197966), has been accepted by IEEE Transactions on Industry Applications. In this work, a parallel-in-time neural simulator is guided by low-fidelity physical solvers to achieve accelerated dynamic simulation without requiring densely sampled training data."
+  description: "Our recent work, [LPHN-Sim](https://ieeexplore.ieee.org/abstract/document/11197966), has been accepted by IEEE Transactions on Industry Applications. A parallel-in-time neural simulator, guided by low-fidelity physical solvers, enables accelerated dynamic simulation without requiring densely sampled training data."
   categories: ["Publication"]
 
 - date: "2025-10"
@@ -105,20 +105,20 @@
 - date: "2025-09"
   display_date: "2025/09"
   title: " " # Serving on SBU Senate Committee
-  description: "I will serve on the *University Senate Student Life Committee* as a representative of the College of Engineering and Applied Sciences starting in September 2025. I look forward to learning from my colleagues and contributing to this effort."
+  description: "I will serve on the *University Senate Student Life Committee* starting in September 2025. I look forward to learning from my colleagues and contributing to this effort."
   categories: ["Service"]
 
 - date: "2025-08"
   display_date: "2025/08"
   title: "New Grant from NSF."
-  description: "I received an NSF grant as lead PI, which will support the team's research on [**Scalable Quantum EMT Analysis**](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2432387) using tensors and singularity transformation. Thanks, NSF!"
+  description: "I received an NSF grant as lead PI, which will support the team's research on [**Scalable Quantum EMT Analysis**](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2432387). Thanks, NSF!"
   categories: ["Grant"]
 
 
 - date: "2025-01"
   display_date: "2025/01"
   title: "Stony Brook Discovery Prize Finalist."
-  description: "I am selected as one of three finalists for the [2025 Stony Brook Discovery Prize](https://www.stonybrook.edu/discoveryprize/finalists-2025.php). Held biennially, the Discovery Prize is one of SBU's most prominent recognitions for bold, pioneering research by early-career faculty. The final presentations will take place on March 6, 2025, 2:30–4:30 PM. Grateful for the opportunity to share our research vision. "
+  description: "I am selected as one of three finalists for the [2025 Stony Brook Discovery Prize](https://www.stonybrook.edu/discoveryprize/finalists-2025.php). Held biennially, the Discovery Prize is one of SBU's most prominent recognitions for bold, pioneering research by early-career faculty. Grateful for the opportunity to share our research vision. "
   categories: ["Award"]
 
 - date: "2025-03"
@@ -160,50 +160,50 @@
 - date: "2024-11"
   display_date: "2024/11"
   title: "Paper Accepted by IEEE TPWRS."
-  description: "Our work on *Learning-Based, Runtime Reachability Analysis of Microgrid Dynamics* was published in IEEE Transactions on Power Systems. Congratulations to Ph.D. student Xuguo Fu!"
+  description: "Our work on *Learning-Based, Runtime Reachability Analysis of Microgrid Dynamics* was published in IEEE Transactions on Power Systems. "
   categories: ["Publication"]
 
 - date: "2023-10"
   display_date: "2023/10"
   title: "Paper Accepted by IEEE TPWRS."
-  description: "Our work on *Physics-Aware Neural Dynamic Equivalence of Power Systems* was published in IEEE Transactions on Power Systems. Congratulations to co-mentored Ph.D. student Qing Shen!"
+  description: "Our work on *Physics-Aware Neural Dynamic Equivalence of Power Systems* was published in IEEE Transactions on Power Systems. "
   categories: ["Publication"]
 
 - date: "2024-12"
   display_date: "2024/12"
   title: "AI Youth Star Award at IEEE BigData 2024."
-  description: "Our paper on *Quantum Kernel Classification for Data-Driven Power System Stability Assessment* received the AI Youth Star Award at the 2024 IEEE International Conference on Big Data. The first author, Trisha Sabadra, is a high school student we mentored through the SBU [CSIRE](https://bmi.stonybrookmedicine.edu/csire) program. Congratulations to Trisha and Sijia!"
+  description: "Our paper on *Quantum Kernel Classification for Data-Driven Power System Stability Assessment* received the AI Youth Star Award at the 2024 IEEE International Conference on Big Data. The first author, Trisha Sabadra, is a high school student we mentored through the SBU [CSIRE](https://bmi.stonybrookmedicine.edu/csire) program. "
   categories: ["Award", "Publication"]
 
 - date: "2025-03"
   display_date: "2025/03"
   title: " "
-  description: "Honored to serve as a co-PI on an ONR project led by Dr. Yacov Shamash. I look forward to collaborating with my colleagues and contributing to this effort."
+  description: "Serving as a co-PI on an ONR project led by Dr. Yacov Shamash. I look forward to collaborating with my colleagues on this effort."
   categories: ["Grant"]
 
 - date: "2024-09"
   display_date: "2024/09"
   title: " "
-  description: "Honored to serve as a co-PI on an industry project funded by ISO New England and led by Dr. Peng Zhang. I look forward to collaborating with my colleagues and contributing to this effort."
+  description: "Serving as a co-PI on an industry project funded by ISO New England and led by Dr. Peng Zhang. I look forward to collaborating with my colleagues on this effort."
   categories: ["Grant"]
 
 - date: "2024-01"
   display_date: "2024/01"
   title: " "
-  description: "Honored to serve as a co-PI on an ONR project led by Dr. Yacov Shamash. I look forward to collaborating with my colleagues and contributing to this effort."
+  description: "Serving as a co-PI on an ONR project led by Dr. Yacov Shamash. I look forward to collaborating with my colleagues on this effort."
   categories: ["Grant"]
 
 
 - date: "2024-01"
   display_date: "2024/01"
   title: "New Grant from NYSERDA."
-  description: "I received a new grant from NYSERDA (The New York State Energy Research and Development Authority) as lead PI, which will support the team's research, teaching, and workforce development on offshore wind. Thanks, NYSERDA!"
+  description: "I received a new grant from NYSERDA (The New York State Energy Research and Development Authority) as lead PI, which will support research, teaching, and workforce development in offshore wind. Thanks, NYSERDA!"
   categories: ["Grant"]
 
 - date: "2023-05"
   display_date: "2023/05"
   title: "SBU Seed Grant."
-  description: "I received a seed grant from SBU OVPR through a program co-funded by Sunrise Wind, LLC (Ørsted and Eversource). This project will support our lab's research on large-scale offshore wind integration with verifiable stability and resilience. Grateful for the support!  "
+  description: "I received an SBU OVPR seed grant, co-funded by Sunrise Wind, LLC (Ørsted and Eversource), to support our lab’s research on verifiable stability and resilience for large-scale offshore wind integration. Grateful for the support.  "
   categories: ["Grant"]
 
 
