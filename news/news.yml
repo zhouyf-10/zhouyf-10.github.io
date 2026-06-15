@@ -7,7 +7,7 @@
 - date: "2026-05"
   display_date: "2026/05"
   title: "Best Paper at PESGM 2026."
-  description: "Our paper, [*Stabilizing Quantum EMT on Noisy Hardware Using Multidimensional Richardson Extrapolation*](https://drive.google.com/file/d/1JQyNwV3Un-Szt53OG3B-tE2OkKUdhKqQ/view?usp=drive_link), has been selected for the Best Paper Session (AMPS) at the 2026 IEEE PES General Meeting. The session is scheduled for Monday, July 20 2026, 1:00-4:50 PM. Please consider stopping by!"
+  description: "Our paper, [*Stabilizing Quantum EMT on Noisy Hardware Using Multidimensional Richardson Extrapolation*](https://drive.google.com/file/d/1JQyNwV3Un-Szt53OG3B-tE2OkKUdhKqQ/view?usp=drive_link), has been selected for the Best Paper Session (AMPS) at the 2026 IEEE PES General Meeting. The session is scheduled for Monday, July 20 2026, 1:00-4:50 PM. Please consider stopping by."
   categories: ["Award", "Publication"]
 
 - date: "2026-04"
@@ -55,9 +55,16 @@
 
 - date: "2026-01"
   display_date: "2026/01"
-  title: "New Undergraduate Course" # 
-  description: "I will launch a new course in Spring 2026, [SBU 102.S260: Smart Grids with AI and Quantum: Hands-On Explorations](courses/sbu-sbu102/spring2026.qmd). This 10-week course introduces first-year students to how emerging AI and quantum tools may shape future energy systems."
+  title: "New Course." # 
+  description: "I will launch a new undergraduate course in Spring 2026, [SBU 102.S260: Smart Grids with AI and Quantum: Hands-On Explorations](courses/sbu-sbu102/spring2026.qmd). This 10-week course introduces first-year students to how emerging AI and quantum tools may shape future energy systems."
   categories: ["Teaching"]
+
+- date: "2024-08"
+  display_date: "2024-08"
+  title: "New Course." # 
+  description: "I will launch a new graduate course in Fall 2024, [ESE 562: AI-Driven Smart Grids](courses/sbu-ese562/fall2024.qmd). This course introduces state-of-the-art AI technologies for power system modeling, analysis, and operation."
+  categories: ["Teaching"]
+
 
 - date: "2026-01"
   display_date: "2026/01"
@@ -111,7 +118,7 @@
 - date: "2025-08"
   display_date: "2025/08"
   title: "New Grant from NSF."
-  description: "I received an NSF grant as lead PI, which will support the team's research on [**Scalable Quantum EMT Analysis**](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2432387). Thanks, NSF!"
+  description: "I received an NSF grant as lead PI to support our team's research on [**Scalable Quantum EMT Analysis**](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2432387). Thanks, NSF!"
   categories: ["Grant"]
 
 
@@ -178,26 +185,26 @@
 - date: "2025-03"
   display_date: "2025/03"
   title: " "
-  description: "Serving as a co-PI on an ONR project led by Dr. Yacov Shamash. I look forward to collaborating with my colleagues on this effort."
+  description: "I will serve as a co-PI on an ONR project led by Dr. Yacov Shamash. I look forward to collaborating with my colleagues on this effort."
   categories: ["Grant"]
 
 - date: "2024-09"
   display_date: "2024/09"
   title: " "
-  description: "Serving as a co-PI on an industry project funded by ISO New England and led by Dr. Peng Zhang. I look forward to collaborating with my colleagues on this effort."
+  description: "I will serve as a co-PI on an industry project funded by ISO New England and led by Dr. Peng Zhang. I look forward to collaborating with my colleagues on this effort."
   categories: ["Grant"]
 
 - date: "2024-01"
   display_date: "2024/01"
   title: " "
-  description: "Serving as a co-PI on an ONR project led by Dr. Yacov Shamash. I look forward to collaborating with my colleagues on this effort."
+  description: "I will serve as a co-PI on an ONR project led by Dr. Yacov Shamash. I look forward to collaborating with my colleagues on this effort."
   categories: ["Grant"]
 
 
 - date: "2024-01"
   display_date: "2024/01"
   title: "New Grant from NYSERDA."
-  description: "I received a new grant from NYSERDA (The New York State Energy Research and Development Authority) as lead PI, which will support research, teaching, and workforce development in offshore wind. Thanks, NYSERDA!"
+  description: "I received a new grant from NYSERDA (The New York State Energy Research and Development Authority) as lead PI to support research, teaching, and workforce development in offshore wind. Thanks, NYSERDA!"
   categories: ["Grant"]
 
 - date: "2023-05"
@@ -335,7 +342,7 @@
 - date: "2024-10"
   display_date: "2024/10"
   title: " "
-  description: "I serve on the faculty search committee for the ECE Department Chair position at SBU."
+  description: "I will serve on the faculty search committee for the ECE Department Chair position at SBU."
   categories: ["Service"]
 
 
