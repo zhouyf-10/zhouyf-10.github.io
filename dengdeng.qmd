@@ -1,5 +1,5 @@
 ---
-title: "Kenny (Cheng) Qian"
+title: "Dengdeng"
 subtitle: |
     Full-Time Stay-at-Home Little Boss \
     PAW Patrol Superfan
@@ -19,7 +19,7 @@ title-block-banner: false
 
 :::{#pi-info}
 
-Hi everyone! My name is **Dengdeng**. I am 3 years old, and I am growing bigger every day.
+Hi everyone! My name is Dengdeng. I am growing bigger every day.
 
 My favorite people are Mommy and Daddy ❤️ <br>
 My favorite food is little mushrooms 🍄   <br>
@@ -31,99 +31,7 @@ Nice to meet you!
 
 ## Education
 
-- **Home University** | Since June 2023
+- **Home University** | Since 2023
     - Major: Eating, Sleeping, Playing, Running, and Laughing
     - Advisors: Mommy and Daddy
     
-:::
-
-## Latest News
-
-<!--
-To add or edit Dengdeng's news, update the cards below.
-Keep up to six cards here. Put photos in files/dengdeng/ and use paths like:
-files/dengdeng/photo-name.jpg
--->
-
-<div id="listing-latest-news" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-3">
-
-<div class="g-col-1">
-<a href="files/dengdeng/2-years.png" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="files/dengdeng/2-years.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">Two Years Old 🎂</h5>
-<div class="card-text listing-description delink">
-<p>I am two years old, a bigger little boy with bigger birthday cakes!</p>
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">Jun 2025</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-
-<div class="g-col-1">
-<a href="files/dengdeng/1-year.png" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="files/dengdeng/1-year.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">One Year Old 🎈</h5>
-<div class="card-text listing-description delink">
-<p>I am one year old, a little boy exploring my big little world!</p>
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">Jun 2024</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-
-<div class="g-col-1">
-<a href="files/dengdeng/6-months.jpg" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="files/dengdeng/6-months.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">Six Months Old 🌙</h5>
-<div class="card-text listing-description delink">
-<p>I am half a year old! I do not like socks!</p>
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">Jan 2024</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-
-<div class="g-col-1">
-<a href="files/dengdeng/100-days.png" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="files/dengdeng/100-days.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">100 Days Old 😊</h5>
-<div class="card-text listing-description delink">
-<p>I am 100 days old, with a tiny face, tiny hands, and big smiles!</p>
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">Sep 2023</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-
-
-</div>
-</div>
