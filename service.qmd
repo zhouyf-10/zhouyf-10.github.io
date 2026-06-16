@@ -20,14 +20,14 @@ title-block-banner: false
 ::: {.service-table-compact}
 | Role | Organization  | Period |
 |---|---|---|
-| Convener | CIGRE Joint Working Group JWG C4/D2.80<br>[*Quantum Information Science and Technology (QIST) for Reliable and Secure Power Systems*](https://cigre-usnc.org/wp-content/uploads/2026/03/TOR-JWG-C4-D2-80-Quantum-Information-Science-and-Technology-QIST-for-Reliable-and-Secure-Power-Systems.pdf)<br><span class="service-callout">Consider joining!</span> | 2026-Present |
+| Convener | CIGRE Joint Working Group JWG C4/D2.80<br>[*Quantum Information Science and Technology (QIST) for Reliable and Secure Power Systems*](https://cigre-usnc.org/wp-content/uploads/2026/03/TOR-JWG-C4-D2-80-Quantum-Information-Science-and-Technology-QIST-for-Reliable-and-Secure-Power-Systems.pdf) <span class="service-callout">Consider joining!</span> | 2026-Present |
 :::
 
 
-### Review and Conference Service
+### Review Service
 
 ::: {.service-table-compact}
-| Role | Venue | Period |
+| Role | Event | Period |
 |---|---|---|
 | Panelist | NSF ECCS and CISE | 2026, 2025, 2024 |
 | Reviewer | IEEE Transactions on Power Systems, IEEE Transactions on Smart Grid, IEEE Transactions on Sustainable Energy, IEEE PES Letters, Scientific Reports, Energy, Applied Energy, IEEE PES General Meeting, Power Systems Computation Conference, etc. | Ongoing |
