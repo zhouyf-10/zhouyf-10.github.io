@@ -10,6 +10,7 @@ project:
     - courses/**/*.qmd
     - service.qmd
     - awards.qmd
+    - dengdeng.qmd
 
 website:
   title: "Yifan Zhou"
