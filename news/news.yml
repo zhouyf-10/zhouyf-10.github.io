@@ -1,7 +1,7 @@
 - date: "2026-06"
   display_date: "2026/06"
   title: "SBU Trustees Faculty Award."
-  description: "I received the 2026 Stony Brook Trustees Faculty Award. This award recognizes exceptional early-career faculty for their significant contributions to research, scholarship, and art-making."
+  description: "I received the 2026 Stony Brook Trustees Faculty Award. This award recognizes early-career faculty whose research, creative activities, and scholarly achievements predict an exceptional trajectory."
   categories: ["Award"]
 
 - date: "2026-05"
@@ -19,7 +19,7 @@
 - date: "2026-04"
   display_date: "2026/04"
   title: "NSF CAREER Award."
-  description: "I received the NSF CAREER Award from the ECCS/EPCL Program. This project will support our research and teaching on [**Fully Quantum Power Grid Analysis**](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2542805). Thanks, NSF!"
+  description: "I received the NSF CAREER Award from the ECCS/EPCL Program. This project will support our research and education on [**Fully Quantum Power Grid Analysis**](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2542805). Thanks, NSF!"
   categories: ["Award", "Grant"]
 
 - date: "2026-02"
@@ -28,8 +28,8 @@
   description: "I will serve as Lead Editor of IEEE Access (PES Section) starting in February 2026. Please consider submitting."
   categories: ["Service"]
 
-- date: "2023-11"
-  display_date: "2023/11"
+- date: "2023-12"
+  display_date: "2023/12"
   title: "Associate Editor of Energy Reports."
   description: "I will serve as Associate Editor of Energy Reports starting in February 2024. Please consider submitting."
   categories: ["Service"]
@@ -40,6 +40,11 @@
   description: "I will serve as Associate Editor of IEEE Journal of Oceanic Engineering starting in May 2024. Please consider submitting."
   categories: ["Service"]
 
+- date: "2023-10"
+  display_date: "2023/10"
+  title: "Associate Editor of IEEE Access (PES Section)."
+  description: "I will serve as Associate Editor of IEEE Access (PES Section) starting in October 2023. Please consider submitting."
+  categories: ["Service"]
 
 - date: "2026-01"
   display_date: "2026/01"
@@ -238,7 +243,7 @@
 - date: "2023-04"
   display_date: "2023/04"
   title: "Young Academic Inventor's Award."
-  description: "I received the 2023 Young Academic Inventor's Award from the National Academy of Inventors Stony Brook University Chapter."
+  description: "I received the 2023 Young Academic Inventor's Award from the National Academy of Inventors (NAI), Stony Brook University Chapter."
   categories: ["Award"]
 
 

@@ -58,7 +58,7 @@ title-block-banner: false
 :::{#lab-info}
 :::
 
-Our lab develops grid-inspired computing and learning methods for reliable, adaptive, and scalable power system operations. Grounded in grid physics, we explore how AI, quantum computing, and formal verification can harness the intrinsic characteristics of electric grids to address modern energy challenges.
+Our lab develops grid-inspired computing and learning methods for reliable, adaptive, and scalable power system operations. Deeply grounded in grid physics, we explore how AI, quantum computing, and formal verification can harness the intrinsic characteristics of power grids to address modern energy challenges.
 
 Current research interests include:
 
@@ -81,7 +81,7 @@ Current research interests include:
 
 ### Alumni
 
-Our group is young and has no alumni yet.
+Our group is young and has no alumni yet 🌱
 
 ## Other Students Mentored
 

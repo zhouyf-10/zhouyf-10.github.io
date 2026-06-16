@@ -37,6 +37,8 @@ website:
         href: "files/yifan_cv.pdf"
       - text: "{{< fa envelope >}}"
         href: mailto:yifan.zhou.1@stonybrook.edu
+      - text: "{{< fa heart >}}"
+        href: https://kunqian.info/
   search: 
     location: navbar
     type: overlay
