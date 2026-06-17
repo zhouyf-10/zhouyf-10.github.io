@@ -44,9 +44,9 @@ Her work on quantum computing for large-scale power grids has been recognized by
     
 :::
 
-## News Highlights
+## Latest News
 
 :::{#latest-news}
 :::
 
-<p align="right">[All News &raquo;](news.html)</p>
+<p align="right">[News Archive &raquo;](news.html)</p>
